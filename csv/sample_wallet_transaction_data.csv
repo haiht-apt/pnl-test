@@ -1,0 +1,1080 @@
+wallet,chain,time,transfer_type,transfer_method,token_name,token_symbol,amount,amount_usd
+W25,bsc,2022-12-31 23:59:59,in,in,Wrapped BNB,WBNB,857.9716134,212613.55
+W25,bsc,2023-01-01 4:22:33,swap_out,out,Wrapped BNB,WBNB,0.006235866894,1.53
+W25,bsc,2023-01-01 4:22:33,swap_in,in,CryptoZoon,ZOON,2192.149719,1.45
+W25,bsc,2023-01-01 16:54:31,swap_out,out,Wrapped BNB,WBNB,0.2615380816,63.90
+W25,bsc,2023-01-01 16:54:31,swap_in,in,CryptoZoon,ZOON,91969.5,61.19
+W25,bsc,2023-01-01 17:37:25,swap_in,in,Wrapped BNB,WBNB,0.4070484256,99.63
+W25,bsc,2023-01-01 17:37:25,swap_out,out,CryptoZoon,ZOON,139551.3631,92.86
+W25,bsc,2023-01-01 17:37:25,swap_out,out,CryptoZoon,ZOON,2847.987002,1.90
+W25,bsc,2023-01-01 18:35:54,swap_out,out,Wrapped BNB,WBNB,0.3770828105,92.43
+W25,bsc,2023-01-01 18:35:54,swap_in,in,CryptoZoon,ZOON,132573.7949,89.26
+W25,bsc,2023-01-01 20:21:9,swap_out,out,Wrapped BNB,WBNB,0.605251366,148.35
+W25,bsc,2023-01-01 20:21:09,swap_in,in,CryptoZoon,ZOON,213036.7115,140.01
+W25,bsc,2023-01-01 23:59:59,in,in,CryptoZoon,ZOON,300986564.4,206808.00
+W25,bsc,2023-01-02 6:36:34,swap_in,in,Wrapped BNB,WBNB,0.02853400498,6.96
+W25,bsc,2023-01-02 6:36:34,swap_out,out,CryptoZoon,ZOON,9800,6.51
+W25,bsc,2023-01-02 6:36:34,swap_out,out,CryptoZoon,ZOON,200,0.13
+W25,bsc,2023-01-02 8:06:29,swap_out,out,Wrapped BNB,WBNB,1.209283531,297.84
+W25,bsc,2023-01-02 8:06:29,swap_in,in,CryptoZoon,ZOON,426518.65,281.58
+W25,bsc,2023-01-02 9:07:11,swap_out,out,Wrapped BNB,WBNB,1.148917836,283.73
+W25,bsc,2023-01-02 9:07:11,swap_in,in,CryptoZoon,ZOON,406346.35,267.17
+W25,bsc,2023-01-02 12:31:15,swap_out,out,Wrapped BNB,WBNB,1.271602247,313.79
+W25,bsc,2023-01-02 12:31:15,swap_in,in,CryptoZoon,ZOON,451013.45,311.51
+W25,bsc,2023-01-02 18:00:07,swap_out,out,Wrapped BNB,WBNB,0.3059666828,75.43
+W25,bsc,2023-01-02 18:00:07,swap_in,in,CryptoZoon,ZOON,108721.61,75.33
+W25,bsc,2023-01-02 18:02:04,swap_out,out,Wrapped BNB,WBNB,0.05657947724,13.95
+W25,bsc,2023-01-02 18:02:04,swap_in,in,CryptoZoon,ZOON,20113.4,13.94
+W25,bsc,2023-01-02 18:02:07,swap_out,out,Wrapped BNB,WBNB,0.2188670908,53.96
+W25,bsc,2023-01-02 18:02:07,swap_in,in,CryptoZoon,ZOON,77830.042,53.92
+W25,bsc,2023-01-02 23:28:57,swap_in,in,Wrapped BNB,WBNB,0.01185873891,2.92
+W25,bsc,2023-01-02 23:28:57,swap_out,out,CryptoZoon,ZOON,4113.039016,2.82
+W25,bsc,2023-01-02 23:28:57,swap_out,out,CryptoZoon,ZOON,83.93957175,0.06
+W25,bsc,2023-01-03 2:58:11,swap_out,out,Wrapped BNB,WBNB,0.9278282778,227.42
+W25,bsc,2023-01-03 2:58:11,swap_in,in,CryptoZoon,ZOON,330374.47,219.23
+W25,bsc,2023-01-03 12:09:52,swap_out,out,Wrapped BNB,WBNB,0.6676485749,164.00
+W25,bsc,2023-01-03 12:09:52,swap_in,in,CryptoZoon,ZOON,238177.5147,156.20
+W25,bsc,2023-01-03 17:24:13,swap_out,out,Wrapped BNB,WBNB,0.005275544473,1.29
+W25,bsc,2023-01-03 17:24:13,swap_in,in,CryptoZoon,ZOON,1883.492804,1.25
+W25,bsc,2023-01-04 2:45:11,swap_out,out,Wrapped BNB,WBNB,1.56639867,385.84
+W25,bsc,2023-01-04 2:45:11,swap_in,in,CryptoZoon,ZOON,560274.85,381.03
+W25,bsc,2023-01-04 2:46:44,swap_out,out,Wrapped BNB,WBNB,0.2593961394,63.89
+W25,bsc,2023-01-04 2:46:44,swap_in,in,CryptoZoon,ZOON,92981.4495,63.23
+W25,bsc,2023-01-04 3:14:41,swap_out,out,Wrapped BNB,WBNB,0.46942157,117.67
+W25,bsc,2023-01-04 3:14:41,swap_in,in,CryptoZoon,ZOON,168410.3,115.21
+W25,bsc,2023-01-04 3:15:07,swap_out,out,Wrapped BNB,WBNB,0.2278806813,57.12
+W25,bsc,2023-01-04 3:15:07,swap_out,out,Wrapped BNB,WBNB,0.08990424837,22.54
+W25,bsc,2023-01-04 3:15:07,swap_in,in,CryptoZoon,ZOON,81839.365,55.99
+W25,bsc,2023-01-04 3:15:07,swap_in,in,CryptoZoon,ZOON,32275.452,22.08
+W25,bsc,2023-01-04 13:33:20,swap_out,out,Wrapped BNB,WBNB,0.00488421347,1.25
+W25,bsc,2023-01-04 13:33:20,swap_in,in,CryptoZoon,ZOON,1754.561956,1.17
+W25,bsc,2023-01-04 15:59:40,swap_out,out,Wrapped BNB,WBNB,0.01336839462,3.41
+W25,bsc,2023-01-04 15:59:40,swap_in,in,CryptoZoon,ZOON,4802.447992,3.24
+W25,bsc,2023-01-04 17:34:11,swap_out,out,Wrapped BNB,WBNB,0.2408000318,62.05
+W25,bsc,2023-01-04 17:34:11,swap_in,in,CryptoZoon,ZOON,86530.655,57.87
+W25,bsc,2023-01-04 19:37:05,swap_in,in,Wrapped BNB,WBNB,1.0209875,265.45
+W25,bsc,2023-01-04 19:37:05,swap_out,out,CryptoZoon,ZOON,7294.447838,4.91
+W25,bsc,2023-01-04 19:37:05,swap_out,out,CryptoZoon,ZOON,357427.9441,240.41
+W25,bsc,2023-01-04 19:39:50,swap_in,in,Wrapped BNB,WBNB,0.059475,15.46
+W25,bsc,2023-01-04 19:39:50,swap_out,out,CryptoZoon,ZOON,424.3791901,0.29
+W25,bsc,2023-01-04 19:39:50,swap_out,out,CryptoZoon,ZOON,20794.58032,13.99
+W25,bsc,2023-01-05 2:51:12,swap_in,in,Wrapped BNB,WBNB,0.015,3.87
+W25,bsc,2023-01-05 2:51:12,swap_out,out,CryptoZoon,ZOON,5244.075444,3.52
+W25,bsc,2023-01-05 2:51:12,swap_out,out,CryptoZoon,ZOON,107.0219478,0.07
+W25,bsc,2023-01-05 4:35:14,swap_out,out,Wrapped BNB,WBNB,0.07893386677,20.34
+W25,bsc,2023-01-05 4:35:14,swap_in,in,CryptoZoon,ZOON,28302.3069,18.89
+W25,bsc,2023-01-05 9:56:29,swap_out,out,Wrapped BNB,WBNB,0.002596267643,0.67
+W25,bsc,2023-01-05 9:56:29,swap_in,in,CryptoZoon,ZOON,931,0.62
+W25,bsc,2023-01-05 19:43:16,swap_out,out,Wrapped BNB,WBNB,0.6199448874,159.31
+W25,bsc,2023-01-05 19:43:16,swap_in,in,CryptoZoon,ZOON,222470.05,150.16
+W25,bsc,2023-01-06 12:14:35,swap_in,in,Wrapped BNB,WBNB,0.006218494221,1.59
+W25,bsc,2023-01-06 12:14:35,swap_out,out,CryptoZoon,ZOON,2177.56,1.46
+W25,bsc,2023-01-06 12:14:35,swap_out,out,CryptoZoon,ZOON,44.44,0.03
+W25,bsc,2023-01-06 17:29:08,swap_out,out,Wrapped BNB,WBNB,0.04756022441,12.31
+W25,bsc,2023-01-06 17:29:08,swap_in,in,CryptoZoon,ZOON,17080.40044,11.52
+W25,bsc,2023-01-06 18:40:03,swap_out,out,Wrapped BNB,WBNB,0.1983375239,51.22
+W25,bsc,2023-01-06 18:40:03,swap_in,in,CryptoZoon,ZOON,71250,48.15
+W25,bsc,2023-01-06 21:35:36,swap_out,out,Wrapped BNB,WBNB,0.5987345202,154.94
+W25,bsc,2023-01-06 21:35:36,swap_in,in,CryptoZoon,ZOON,215289.2584,145.32
+W25,bsc,2023-01-07 0:27:43,swap_in,in,Wrapped BNB,WBNB,0.05754075794,14.95
+W25,bsc,2023-01-07 0:27:43,swap_out,out,CryptoZoon,ZOON,412,0.28
+W25,bsc,2023-01-07 0:27:43,swap_out,out,CryptoZoon,ZOON,20188,13.56
+W25,bsc,2023-01-07 1:09:27,swap_out,out,Wrapped BNB,WBNB,0.2788555106,72.56
+W25,bsc,2023-01-07 1:09:27,swap_in,in,CryptoZoon,ZOON,100359.4725,67.97
+W25,bsc,2023-01-07 9:43:03,swap_out,out,Wrapped BNB,WBNB,0.1815922421,47.40
+W25,bsc,2023-01-07 9:43:03,swap_in,in,CryptoZoon,ZOON,65390.18066,44.42
+W25,bsc,2023-01-07 11:23:05,swap_out,out,Wrapped BNB,WBNB,0.002445349394,0.64
+W25,bsc,2023-01-07 11:23:05,swap_in,in,CryptoZoon,ZOON,880.7459262,0.60
+W25,bsc,2023-01-07 19:55:59,swap_in,in,Wrapped BNB,WBNB,0.249812318,65.29
+W25,bsc,2023-01-07 19:55:59,swap_out,out,CryptoZoon,ZOON,87710,59.35
+W25,bsc,2023-01-07 19:55:59,swap_out,out,CryptoZoon,ZOON,1790,1.21
+W25,bsc,2023-01-07 20:22:23,swap_out,out,Wrapped BNB,WBNB,0.03983985879,10.42
+W25,bsc,2023-01-07 20:22:23,swap_in,in,CryptoZoon,ZOON,14341.46923,9.68
+W25,bsc,2023-01-08 1:46:28,swap_out,out,Wrapped BNB,WBNB,0.02505777121,6.54
+W25,bsc,2023-01-08 1:46:28,swap_in,in,CryptoZoon,ZOON,9025.459463,6.12
+W25,bsc,2023-01-08 4:46:09,swap_out,out,Wrapped BNB,WBNB,0.0221192036,5.77
+W25,bsc,2023-01-08 4:46:09,swap_in,in,CryptoZoon,ZOON,7967.47228,5.39
+W25,bsc,2023-01-08 9:02:06,swap_out,out,Wrapped BNB,WBNB,0.1846640644,48.17
+W25,bsc,2023-01-08 9:02:06,swap_in,in,CryptoZoon,ZOON,66500,45.04
+W25,bsc,2023-01-08 15:47:14,swap_out,out,Wrapped BNB,WBNB,0.3279230234,86.34
+W25,bsc,2023-01-08 15:47:14,swap_in,in,CryptoZoon,ZOON,118160.943,79.53
+W25,bsc,2023-01-08 20:15:07,swap_out,out,Wrapped BNB,WBNB,0.2187000118,58.42
+W25,bsc,2023-01-08 20:15:07,swap_in,in,CryptoZoon,ZOON,78855.377,53.15
+W25,bsc,2023-01-08 20:16:25,swap_out,out,Wrapped BNB,WBNB,0.4518248317,120.69
+W25,bsc,2023-01-08 20:16:25,swap_in,in,CryptoZoon,ZOON,163040.9,109.90
+W25,bsc,2023-01-08 23:03:13,swap_out,out,Wrapped BNB,WBNB,0.2024863157,54.86
+W25,bsc,2023-01-08 23:03:13,swap_in,in,CryptoZoon,ZOON,73123.704,49.50
+W25,bsc,2023-01-08 23:58:21,swap_out,out,Wrapped BNB,WBNB,0.33995511,92.11
+W25,bsc,2023-01-08 23:58:21,swap_in,in,CryptoZoon,ZOON,122846.438,83.16
+W25,bsc,2023-01-09 1:40:25,swap_out,out,Wrapped BNB,WBNB,0.1944745168,53.87
+W25,bsc,2023-01-09 1:40:25,swap_in,in,CryptoZoon,ZOON,70319.912,48.71
+W25,bsc,2023-01-09 2:03:02,swap_out,out,Wrapped BNB,WBNB,0.3465273376,96.74
+W25,bsc,2023-01-09 2:03:02,swap_in,in,CryptoZoon,ZOON,125380.8009,86.84
+W25,bsc,2023-01-09 2:48:17,swap_out,out,Wrapped BNB,WBNB,0.3514466243,98.11
+W25,bsc,2023-01-09 2:48:17,swap_in,in,CryptoZoon,ZOON,127265.8,88.15
+W25,bsc,2023-01-09 4:56:47,swap_out,out,Wrapped BNB,WBNB,0.02068666968,5.77
+W25,bsc,2023-01-09 4:56:47,swap_in,in,CryptoZoon,ZOON,7498.117036,5.24
+W25,bsc,2023-01-09 7:01:56,swap_out,out,Wrapped BNB,WBNB,0.002235279221,0.62
+W25,bsc,2023-01-09 7:01:56,swap_in,in,CryptoZoon,ZOON,809.8180929,0.57
+W25,bsc,2023-01-09 7:50:33,swap_in,in,Wrapped BNB,WBNB,0.5341918124,148.58
+W25,bsc,2023-01-09 7:50:33,swap_out,out,CryptoZoon,ZOON,3848.896789,2.71
+W25,bsc,2023-01-09 7:50:33,swap_out,out,CryptoZoon,ZOON,188595.9427,132.70
+W25,bsc,2023-01-09 10:16:18,swap_in,in,Wrapped BNB,WBNB,0.1653933652,46.15
+W25,bsc,2023-01-09 10:16:18,swap_out,out,CryptoZoon,ZOON,1190.688462,0.83
+W25,bsc,2023-01-09 10:16:18,swap_out,out,CryptoZoon,ZOON,58343.73464,40.89
+W25,bsc,2023-01-09 14:35:07,swap_in,in,Wrapped BNB,WBNB,0.03861502011,10.72
+W25,bsc,2023-01-09 14:35:07,swap_out,out,CryptoZoon,ZOON,13618.4521,9.61
+W25,bsc,2023-01-09 14:35:07,swap_out,out,CryptoZoon,ZOON,277.927594,0.20
+W25,bsc,2023-01-09 17:21:12,swap_out,out,Wrapped BNB,WBNB,0.3148254406,88.79
+W25,bsc,2023-01-09 17:21:12,swap_in,in,CryptoZoon,ZOON,113901.96,80.14
+W25,bsc,2023-01-09 18:02:07,swap_out,out,Wrapped BNB,WBNB,0.00831260927,2.34
+W25,bsc,2023-01-09 18:02:07,swap_in,in,CryptoZoon,ZOON,3008.6039,2.14
+W25,bsc,2023-01-10 17:56:11,swap_in,in,Wrapped BNB,WBNB,0.006997556121,1.92
+W25,bsc,2023-01-10 17:56:11,swap_out,out,CryptoZoon,ZOON,50.4,0.04
+W25,bsc,2023-01-10 17:56:11,swap_out,out,CryptoZoon,ZOON,2469.6,1.73
+W25,bsc,2023-01-11 3:43:29,swap_in,in,Wrapped BNB,WBNB,0.003699976779,1.02
+W25,bsc,2023-01-11 3:43:29,swap_out,out,CryptoZoon,ZOON,1305.7912,0.92
+W25,bsc,2023-01-11 3:43:29,swap_out,out,CryptoZoon,ZOON,26.6488,0.02
+W25,bsc,2023-01-11 5:22:13,swap_in,in,Wrapped BNB,WBNB,0.3472490286,95.36
+W25,bsc,2023-01-11 5:22:13,swap_out,out,CryptoZoon,ZOON,122500,85.86
+W25,bsc,2023-01-11 5:22:13,swap_out,out,CryptoZoon,ZOON,2500,1.75
+W25,bsc,2023-01-11 6:21:38,swap_out,out,Wrapped BNB,WBNB,0.4951500749,136.67
+W25,bsc,2023-01-11 6:21:38,swap_in,in,CryptoZoon,ZOON,179166.1455,126.23
+W25,bsc,2023-01-11 12:34:27,swap_in,in,Wrapped BNB,WBNB,0.03375155734,9.38
+W25,bsc,2023-01-11 12:34:27,swap_out,out,CryptoZoon,ZOON,11915.22712,8.40
+W25,bsc,2023-01-11 12:34:27,swap_out,out,CryptoZoon,ZOON,243.1679004,0.17
+W25,bsc,2023-01-11 12:41:00,swap_in,in,Wrapped BNB,WBNB,0.000000001,0.00
+W25,bsc,2023-01-11 12:41:00,swap_out,out,CryptoZoon,ZOON,0.0003530133896,0.00
+W25,bsc,2023-01-11 12:41:00,swap_out,out,CryptoZoon,ZOON,0.00000720435489,0.00
+W25,bsc,2023-01-11 15:59:35,swap_out,out,Wrapped BNB,WBNB,0.1285625197,35.74
+W25,bsc,2023-01-11 15:59:35,swap_in,in,CryptoZoon,ZOON,46550,33.07
+W25,bsc,2023-01-11 23:34:22,swap_out,out,Wrapped BNB,WBNB,0.3017048835,84.61
+W25,bsc,2023-01-11 23:34:22,swap_in,in,CryptoZoon,ZOON,109297.139,77.12
+W25,bsc,2023-01-12 4:34:10,swap_out,out,Wrapped BNB,WBNB,0.350108097,100.54
+W25,bsc,2023-01-12 4:34:10,swap_in,in,CryptoZoon,ZOON,126929.8753,90.79
+W25,bsc,2023-01-12 5:10:05,swap_out,out,Wrapped BNB,WBNB,0.2330804144,66.83
+W25,bsc,2023-01-12 5:10:05,swap_in,in,CryptoZoon,ZOON,84560.5165,60.37
+W25,bsc,2023-01-12 5:16:29,swap_out,out,Wrapped BNB,WBNB,0.02075708588,5.95
+W25,bsc,2023-01-12 5:16:29,swap_in,in,CryptoZoon,ZOON,7532.844485,5.38
+W25,bsc,2023-01-12 5:45:44,swap_out,out,Wrapped BNB,WBNB,0.320546883,91.91
+W25,bsc,2023-01-12 5:45:44,swap_in,in,CryptoZoon,ZOON,116375,83.08
+W25,bsc,2023-01-12 6:21:26,swap_out,out,Wrapped BNB,WBNB,0.01266536697,3.61
+W25,bsc,2023-01-12 6:21:26,swap_in,in,CryptoZoon,ZOON,4599.998171,3.30
+W25,bsc,2023-01-12 11:45:47,swap_out,out,Wrapped BNB,WBNB,0.07916714756,22.43
+W25,bsc,2023-01-12 11:45:47,swap_in,in,CryptoZoon,ZOON,28756.24167,20.74
+W25,bsc,2023-01-12 12:16:30,swap_out,out,Wrapped BNB,WBNB,0.03649869121,10.34
+W25,bsc,2023-01-12 12:16:30,swap_in,in,CryptoZoon,ZOON,13259.40422,9.52
+W25,bsc,2023-01-12 13:55:33,swap_out,out,Wrapped BNB,WBNB,0.2866548571,81.32
+W25,bsc,2023-01-12 13:55:33,swap_in,in,CryptoZoon,ZOON,104177.1114,75.06
+W25,bsc,2023-01-13 2:52:58,swap_out,out,Wrapped BNB,WBNB,0.03177459233,9.10
+W25,bsc,2023-01-13 2:52:58,swap_in,in,CryptoZoon,ZOON,11552,8.37
+W25,bsc,2023-01-13 3:13:19,swap_out,out,Wrapped BNB,WBNB,0.05055711282,14.52
+W25,bsc,2023-01-13 3:13:19,swap_in,in,CryptoZoon,ZOON,18382.38522,13.39
+W25,bsc,2023-01-13 8:27:30,swap_out,out,Wrapped BNB,WBNB,0.006355925413,1.83
+W25,bsc,2023-01-13 8:27:30,swap_in,in,CryptoZoon,ZOON,2311.147913,1.68
+W25,bsc,2023-01-13 10:43:30,swap_in,in,Wrapped BNB,WBNB,0.4064881576,116.96
+W25,bsc,2023-01-13 10:43:30,swap_out,out,CryptoZoon,ZOON,2940,2.12
+W25,bsc,2023-01-13 10:43:30,swap_out,out,CryptoZoon,ZOON,144060,104.10
+W25,bsc,2023-01-13 14:36:43,swap_in,in,Wrapped BNB,WBNB,0.01383301304,3.95
+W25,bsc,2023-01-13 14:36:43,swap_out,out,CryptoZoon,ZOON,4900,3.52
+W25,bsc,2023-01-13 14:36:43,swap_out,out,CryptoZoon,ZOON,100,0.07
+W25,bsc,2023-01-13 14:37:55,swap_out,out,Wrapped BNB,WBNB,0.02821674872,8.06
+W25,bsc,2023-01-13 14:37:55,swap_in,in,CryptoZoon,ZOON,10250.42277,7.36
+W25,bsc,2023-01-13 18:22:31,swap_out,out,Wrapped BNB,WBNB,0.01455191721,4.18
+W25,bsc,2023-01-13 18:22:31,swap_in,in,CryptoZoon,ZOON,5286.607365,3.80
+W25,bsc,2023-01-13 21:38:08,swap_out,out,Wrapped BNB,WBNB,0.2085320161,60.33
+W25,bsc,2023-01-13 21:38:08,swap_in,in,CryptoZoon,ZOON,75778.213,54.78
+W25,bsc,2023-01-14 0:25:13,swap_out,out,Wrapped BNB,WBNB,0.1821220968,53.49
+W25,bsc,2023-01-14 0:25:13,swap_in,in,CryptoZoon,ZOON,66211.8175,48.07
+W25,bsc,2023-01-14 0:39:16,swap_out,out,Wrapped BNB,WBNB,0.6617607186,194.36
+W25,bsc,2023-01-14 0:39:16,swap_in,in,CryptoZoon,ZOON,240828.8247,174.83
+W25,bsc,2023-01-14 0:39:37,swap_out,out,Wrapped BNB,WBNB,0.2290714109,67.28
+W25,bsc,2023-01-14 0:39:37,swap_in,in,CryptoZoon,ZOON,83452.218,60.58
+W25,bsc,2023-01-14 1:19:51,swap_out,out,Wrapped BNB,WBNB,0.2021672112,60.79
+W25,bsc,2023-01-14 1:19:51,swap_in,in,CryptoZoon,ZOON,73688.574,54.01
+W25,bsc,2023-01-14 1:19:54,swap_out,out,Wrapped BNB,WBNB,0.1053428854,31.68
+W25,bsc,2023-01-14 1:19:54,swap_in,in,CryptoZoon,ZOON,38410.799,28.15
+W25,bsc,2023-01-14 1:19:57,swap_out,out,Wrapped BNB,WBNB,0.03262164842,9.81
+W25,bsc,2023-01-14 1:19:57,swap_in,in,CryptoZoon,ZOON,11896.66586,8.72
+W25,bsc,2023-01-14 2:01:30,swap_out,out,Wrapped BNB,WBNB,0.4272828712,131.70
+W25,bsc,2023-01-14 2:01:30,swap_in,in,CryptoZoon,ZOON,155909.2747,116.26
+W25,bsc,2023-01-14 2:43:28,swap_out,out,Wrapped BNB,WBNB,0.9133421847,281.51
+W25,bsc,2023-01-14 2:43:28,swap_in,in,CryptoZoon,ZOON,333796.6474,248.92
+W25,bsc,2023-01-14 6:50:31,swap_out,out,Wrapped BNB,WBNB,0.3278617175,100.61
+W25,bsc,2023-01-14 6:50:31,swap_in,in,CryptoZoon,ZOON,119999.8732,90.32
+W25,bsc,2023-01-14 8:19:59,swap_out,out,Wrapped BNB,WBNB,0.5675799623,176.40
+W25,bsc,2023-01-14 8:19:59,swap_in,in,CryptoZoon,ZOON,207960.091,154.26
+W25,bsc,2023-01-14 12:17:02,swap_out,out,Wrapped BNB,WBNB,0.01173331579,3.57
+W25,bsc,2023-01-14 12:17:02,swap_in,in,CryptoZoon,ZOON,4302.032422,3.27
+W25,bsc,2023-01-15 0:31:35,swap_out,out,Wrapped BNB,WBNB,0.005653824905,1.73
+W25,bsc,2023-01-15 0:31:35,swap_in,in,CryptoZoon,ZOON,2073.023731,1.54
+W25,bsc,2023-01-15 4:18:52,swap_out,out,Wrapped BNB,WBNB,0.01245275642,3.72
+W25,bsc,2023-01-15 4:18:52,swap_in,in,CryptoZoon,ZOON,4566.009133,3.42
+W25,bsc,2023-01-15 10:45:24,swap_in,in,Wrapped BNB,WBNB,0.06,17.75
+W25,bsc,2023-01-15 10:45:24,swap_out,out,CryptoZoon,ZOON,437.7779294,0.32
+W25,bsc,2023-01-15 10:45:24,swap_out,out,CryptoZoon,ZOON,21451.11854,15.90
+W25,bsc,2023-01-15 15:08:13,swap_out,out,Wrapped BNB,WBNB,0.02084684515,6.28
+W25,bsc,2023-01-15 15:08:13,swap_in,in,CryptoZoon,ZOON,7643.05381,5.78
+W25,bsc,2023-01-15 23:36:41,swap_in,in,Wrapped BNB,WBNB,0.02988325012,9.03
+W25,bsc,2023-01-15 23:36:41,swap_out,out,CryptoZoon,ZOON,10683.20808,8.09
+W25,bsc,2023-01-15 23:36:41,swap_out,out,CryptoZoon,ZOON,218.0246548,0.17
+W25,bsc,2023-01-16 3:04:18,swap_in,in,Wrapped BNB,WBNB,0.02478125,7.60
+W25,bsc,2023-01-16 3:04:18,swap_out,out,CryptoZoon,ZOON,8858.676735,6.69
+W25,bsc,2023-01-16 3:04:18,swap_out,out,CryptoZoon,ZOON,180.7893211,0.14
+W25,bsc,2023-01-16 5:22:05,swap_out,out,Wrapped BNB,WBNB,0.01269790776,3.88
+W25,bsc,2023-01-16 5:22:05,swap_in,in,CryptoZoon,ZOON,4655,3.49
+W25,bsc,2023-01-16 12:22:26,swap_out,out,Wrapped BNB,WBNB,0.02768323852,8.26
+W25,bsc,2023-01-16 12:22:26,swap_in,in,CryptoZoon,ZOON,10149.04768,7.55
+W25,bsc,2023-01-16 13:29:13,swap_out,out,Wrapped BNB,WBNB,0.003886781423,1.16
+W25,bsc,2023-01-16 13:29:13,swap_in,in,CryptoZoon,ZOON,1425,1.06
+W25,bsc,2023-01-16 15:39:12,swap_in,in,Wrapped BNB,WBNB,0.83265,247.19
+W25,bsc,2023-01-16 15:39:12,swap_out,out,CryptoZoon,ZOON,297380.2928,220.47
+W25,bsc,2023-01-16 15:39:12,swap_out,out,CryptoZoon,ZOON,6068.985567,4.50
+W25,bsc,2023-01-16 18:16:14,swap_in,in,Wrapped BNB,WBNB,0.0035,1.05
+W25,bsc,2023-01-16 18:16:14,swap_out,out,CryptoZoon,ZOON,25.48530529,0.02
+W25,bsc,2023-01-16 18:16:14,swap_out,out,CryptoZoon,ZOON,1248.779959,0.92
+W25,bsc,2023-01-17 7:09:17,swap_out,out,Wrapped BNB,WBNB,0.000102456741,0.03
+W25,bsc,2023-01-17 7:09:17,swap_in,in,CryptoZoon,ZOON,37.48907937,0.03
+W25,bsc,2023-01-17 11:40:57,swap_out,out,Wrapped BNB,WBNB,0.1920583493,57.75
+W25,bsc,2023-01-17 11:40:57,swap_in,in,CryptoZoon,ZOON,70290.5,52.40
+W25,bsc,2023-01-17 16:11:15,swap_out,out,Wrapped BNB,WBNB,0.1798096816,54.42
+W25,bsc,2023-01-17 16:11:15,swap_in,in,CryptoZoon,ZOON,65836.80674,49.16
+W25,bsc,2023-01-17 19:46:20,swap_in,in,Wrapped BNB,WBNB,0.004422948776,1.34
+W25,bsc,2023-01-17 19:46:20,swap_out,out,CryptoZoon,ZOON,32.234,0.02
+W25,bsc,2023-01-17 19:46:20,swap_out,out,CryptoZoon,ZOON,1579.466,1.18
+W25,bsc,2023-01-18 11:20:43,swap_out,out,Wrapped BNB,WBNB,0.0003813261069,0.11
+W25,bsc,2023-01-18 11:20:43,swap_in,in,CryptoZoon,ZOON,139.65,0.11
+W25,bsc,2023-01-18 13:13:39,swap_in,in,Wrapped BNB,WBNB,0.4,120.67
+W25,bsc,2023-01-18 13:13:39,swap_out,out,CryptoZoon,ZOON,142774.4424,108.79
+W25,bsc,2023-01-18 13:13:39,swap_out,out,CryptoZoon,ZOON,2913.76413,2.22
+W25,bsc,2023-01-18 13:51:07,swap_out,out,Wrapped BNB,WBNB,0.005852513395,1.77
+W25,bsc,2023-01-18 13:51:07,swap_in,in,CryptoZoon,ZOON,2141.3,1.63
+W25,bsc,2023-01-18 17:08:05,swap_out,out,Wrapped BNB,WBNB,0.01557860928,4.39
+W25,bsc,2023-01-18 17:08:05,swap_in,in,CryptoZoon,ZOON,5700,4.29
+W25,bsc,2023-01-18 18:41:34,swap_out,out,Wrapped BNB,WBNB,0.3005892004,88.14
+W25,bsc,2023-01-18 18:41:34,swap_in,in,CryptoZoon,ZOON,110022.825,82.60
+W25,bsc,2023-01-18 19:06:12,swap_out,out,Wrapped BNB,WBNB,0.007254504479,2.13
+W25,bsc,2023-01-18 19:06:12,swap_in,in,CryptoZoon,ZOON,2656.296155,2.01
+W25,bsc,2023-01-18 20:33:21,swap_out,out,Wrapped BNB,WBNB,0.02618793318,7.67
+W25,bsc,2023-01-18 20:33:21,swap_in,in,CryptoZoon,ZOON,9589.307447,7.28
+W25,bsc,2023-01-18 21:16:50,swap_out,out,Wrapped BNB,WBNB,0.002390232698,0.69
+W25,bsc,2023-01-18 21:16:50,swap_in,in,CryptoZoon,ZOON,875.2678837,0.67
+W25,bsc,2023-01-19 2:43:39,swap_out,out,Wrapped BNB,WBNB,0.02937293332,8.47
+W25,bsc,2023-01-19 2:43:39,swap_in,in,CryptoZoon,ZOON,10756.34033,8.13
+W25,bsc,2023-01-19 3:32:12,swap_out,out,Wrapped BNB,WBNB,0.004538861271,1.32
+W25,bsc,2023-01-19 3:32:12,swap_in,in,CryptoZoon,ZOON,1662.193863,1.24
+W25,bsc,2023-01-19 23:43:28,swap_out,out,Wrapped BNB,WBNB,0.01111308364,3.27
+W25,bsc,2023-01-19 23:43:28,swap_in,in,CryptoZoon,ZOON,4069.840951,3.03
+W25,bsc,2023-01-20 1:00:49,swap_in,in,Wrapped BNB,WBNB,0.011,3.23
+W25,bsc,2023-01-20 1:00:49,swap_out,out,CryptoZoon,ZOON,3928.145002,2.94
+W25,bsc,2023-01-20 1:00:49,swap_out,out,CryptoZoon,ZOON,80.16622453,0.06
+W25,bsc,2023-01-20 18:13:46,swap_out,out,Wrapped BNB,WBNB,0.009857456079,2.88
+W25,bsc,2023-01-20 18:13:46,swap_in,in,CryptoZoon,ZOON,3610,2.76
+W25,bsc,2023-01-21 6:28:26,swap_out,out,Wrapped BNB,WBNB,0.0003073943124,0.09
+W25,bsc,2023-01-21 6:28:26,swap_in,in,CryptoZoon,ZOON,112.575385,0.09
+W25,bsc,2023-01-21 20:14:14,swap_out,out,Wrapped BNB,WBNB,0.01231608891,3.75
+W25,bsc,2023-01-21 20:14:14,swap_in,in,CryptoZoon,ZOON,4510.523482,3.39
+W25,bsc,2023-01-22 4:49:58,swap_out,out,Wrapped BNB,WBNB,0.008520461194,2.56
+W25,bsc,2023-01-22 4:49:58,swap_in,in,CryptoZoon,ZOON,3120.527483,2.33
+W25,bsc,2023-01-22 10:52:50,swap_in,in,Wrapped BNB,WBNB,0.0031,0.94
+W25,bsc,2023-01-22 10:52:50,swap_out,out,CryptoZoon,ZOON,22.59358886,0.02
+W25,bsc,2023-01-22 10:52:50,swap_out,out,CryptoZoon,ZOON,1107.085854,0.83
+W25,bsc,2023-01-22 13:57:51,swap_in,in,Wrapped BNB,WBNB,0.01644266315,4.98
+W25,bsc,2023-01-22 13:57:51,swap_out,out,CryptoZoon,ZOON,119.8355343,0.09
+W25,bsc,2023-01-22 13:57:51,swap_out,out,CryptoZoon,ZOON,5871.94118,4.37
+W25,bsc,2023-01-22 13:59:33,swap_out,out,Wrapped BNB,WBNB,0.002594018713,0.79
+W25,bsc,2023-01-22 13:59:33,swap_in,in,CryptoZoon,ZOON,950,0.71
+W25,bsc,2023-01-22 14:28:41,swap_in,in,Wrapped BNB,WBNB,0.120011125,36.47
+W25,bsc,2023-01-22 14:28:41,swap_out,out,CryptoZoon,ZOON,874.515151,0.66
+W25,bsc,2023-01-22 14:28:41,swap_out,out,CryptoZoon,ZOON,42851.2424,32.18
+W25,bsc,2023-01-22 20:34:33,swap_out,out,Wrapped BNB,WBNB,0.04220175841,12.85
+W25,bsc,2023-01-22 20:34:33,swap_in,in,CryptoZoon,ZOON,15451.84679,11.43
+W25,bsc,2023-01-22 22:59:37,swap_out,out,Wrapped BNB,WBNB,0.3540780485,106.90
+W25,bsc,2023-01-22 22:59:37,swap_in,in,CryptoZoon,ZOON,129704.0597,95.31
+W25,bsc,2023-01-23 11:00:27,swap_in,in,Wrapped BNB,WBNB,0.3374545267,103.29
+W25,bsc,2023-01-23 11:00:27,swap_out,out,CryptoZoon,ZOON,120540,89.77
+W25,bsc,2023-01-23 11:00:27,swap_out,out,CryptoZoon,ZOON,2460,1.83
+W25,bsc,2023-01-23 19:12:30,swap_in,in,Wrapped BNB,WBNB,0.006861640812,2.10
+W25,bsc,2023-01-23 19:12:30,swap_out,out,CryptoZoon,ZOON,50,0.04
+W25,bsc,2023-01-23 19:12:30,swap_out,out,CryptoZoon,ZOON,2450,1.82
+W25,bsc,2023-01-24 1:50:25,swap_out,out,Wrapped BNB,WBNB,0.3107720811,95.07
+W25,bsc,2023-01-24 1:50:25,swap_in,in,CryptoZoon,ZOON,113837.455,84.70
+W25,bsc,2023-01-24 2:27:17,swap_out,out,Wrapped BNB,WBNB,0.1993040478,62.37
+W25,bsc,2023-01-24 2:27:17,swap_in,in,CryptoZoon,ZOON,73050.497,54.73
+W25,bsc,2023-01-24 2:43:30,swap_out,out,Wrapped BNB,WBNB,1.043582479,326.56
+W25,bsc,2023-01-24 2:43:30,swap_in,in,CryptoZoon,ZOON,383068.6435,287.00
+W25,bsc,2023-01-24 3:29:12,swap_out,out,Wrapped BNB,WBNB,0.7320582232,232.54
+W25,bsc,2023-01-24 3:29:12,swap_in,in,CryptoZoon,ZOON,269286.9003,201.69
+W25,bsc,2023-01-24 3:54:07,swap_out,out,Wrapped BNB,WBNB,0.3119079694,99.08
+W25,bsc,2023-01-24 3:54:07,swap_in,in,CryptoZoon,ZOON,114878.1515,86.04
+W25,bsc,2023-01-24 19:44:41,swap_out,out,Wrapped BNB,WBNB,0.02065361829,6.42
+W25,bsc,2023-01-24 19:44:41,swap_in,in,CryptoZoon,ZOON,7609.913982,5.51
+W25,bsc,2023-01-24 21:16:35,swap_out,out,Wrapped BNB,WBNB,0.005500091902,1.70
+W25,bsc,2023-01-24 21:16:35,swap_in,in,CryptoZoon,ZOON,2026.595724,1.47
+W25,bsc,2023-01-25 2:23:21,swap_in,in,Wrapped BNB,WBNB,0.005455153479,1.62
+W25,bsc,2023-01-25 2:23:21,swap_out,out,CryptoZoon,ZOON,1960,1.44
+W25,bsc,2023-01-25 2:23:21,swap_out,out,CryptoZoon,ZOON,40,0.03
+W25,bsc,2023-01-25 8:51:06,swap_out,out,Wrapped BNB,WBNB,0.2056136004,62.42
+W25,bsc,2023-01-25 8:51:06,swap_in,in,CryptoZoon,ZOON,75779.676,55.86
+W25,bsc,2023-01-25 18:29:49,swap_out,out,Wrapped BNB,WBNB,0.3677695737,110.78
+W25,bsc,2023-01-25 18:29:49,swap_in,in,CryptoZoon,ZOON,135635.7202,96.34
+W25,bsc,2023-01-25 21:37:10,swap_out,out,Wrapped BNB,WBNB,0.2422054013,73.74
+W25,bsc,2023-01-25 21:37:10,swap_in,in,CryptoZoon,ZOON,89392.017,62.93
+W25,bsc,2023-01-26 2:20:53,swap_out,out,Wrapped BNB,WBNB,0.007391676366,2.27
+W25,bsc,2023-01-26 2:20:53,swap_in,in,CryptoZoon,ZOON,2728.899662,1.95
+W25,bsc,2023-01-26 8:47:05,swap_out,out,Wrapped BNB,WBNB,0.05939226425,18.20
+W25,bsc,2023-01-26 8:47:05,swap_in,in,CryptoZoon,ZOON,21928.51107,16.08
+W25,bsc,2023-01-26 13:01:08,swap_out,out,Wrapped BNB,WBNB,0.02538884316,7.78
+W25,bsc,2023-01-26 13:01:08,swap_in,in,CryptoZoon,ZOON,9374.8907,7.37
+W25,bsc,2023-01-26 18:06:42,swap_out,out,Wrapped BNB,WBNB,0.03283192782,9.99
+W25,bsc,2023-01-26 18:06:42,swap_in,in,CryptoZoon,ZOON,12124.11112,8.94
+W25,bsc,2023-01-26 18:28:16,swap_out,out,Wrapped BNB,WBNB,0.001543592734,0.47
+W25,bsc,2023-01-26 18:28:16,swap_in,in,CryptoZoon,ZOON,570.0384074,0.42
+W25,bsc,2023-01-27 2:17:14,swap_out,out,Wrapped BNB,WBNB,0.01131310533,3.40
+W25,bsc,2023-01-27 2:17:14,swap_in,in,CryptoZoon,ZOON,4177.91781,3.18
+W25,bsc,2023-01-27 8:22:01,swap_in,in,Wrapped BNB,WBNB,0.02620573,8.02
+W25,bsc,2023-01-27 8:22:01,swap_out,out,CryptoZoon,ZOON,9436.664913,7.19
+W25,bsc,2023-01-27 8:22:01,swap_out,out,CryptoZoon,ZOON,192.5849982,0.15
+W25,bsc,2023-01-27 11:05:55,swap_in,in,Wrapped BNB,WBNB,0.00099125,0.30
+W25,bsc,2023-01-27 11:05:55,swap_out,out,CryptoZoon,ZOON,7.284425229,0.01
+W25,bsc,2023-01-27 11:05:55,swap_out,out,CryptoZoon,ZOON,356.9368362,0.27
+W25,bsc,2023-01-27 18:44:02,swap_out,out,Wrapped BNB,WBNB,0.02427581278,7.48
+W25,bsc,2023-01-27 18:44:02,swap_in,in,CryptoZoon,ZOON,8964.831668,6.86
+W25,bsc,2023-01-28 9:00:37,swap_out,out,Wrapped BNB,WBNB,0.05390156569,16.59
+W25,bsc,2023-01-28 9:00:37,swap_in,in,CryptoZoon,ZOON,19907.20614,13.59
+W25,bsc,2023-01-28 9:35:54,swap_out,out,Wrapped BNB,WBNB,0.05134230997,15.80
+W25,bsc,2023-01-28 9:35:54,swap_in,in,CryptoZoon,ZOON,18964.39481,12.94
+W25,bsc,2023-01-28 13:49:36,swap_in,in,Wrapped BNB,WBNB,0.004081100443,1.25
+W25,bsc,2023-01-28 13:49:36,swap_out,out,CryptoZoon,ZOON,1470,1.09
+W25,bsc,2023-01-28 13:49:36,swap_out,out,CryptoZoon,ZOON,30,0.02
+W25,bsc,2023-01-28 16:02:03,swap_out,out,Wrapped BNB,WBNB,0.2941855129,90.24
+W25,bsc,2023-01-28 16:02:03,swap_in,in,CryptoZoon,ZOON,108707.607,80.65
+W25,bsc,2023-01-28 16:33:20,swap_out,out,Wrapped BNB,WBNB,0.002895422531,0.89
+W25,bsc,2023-01-28 16:33:20,swap_in,in,CryptoZoon,ZOON,1070.298929,0.79
+W25,bsc,2023-01-28 18:31:06,swap_out,out,Wrapped BNB,WBNB,0.3169569958,97.03
+W25,bsc,2023-01-28 18:31:06,swap_in,in,CryptoZoon,ZOON,117208.5965,85.36
+W25,bsc,2023-01-28 23:20:35,swap_out,out,Wrapped BNB,WBNB,0.05799377866,17.70
+W25,bsc,2023-01-28 23:20:35,swap_in,in,CryptoZoon,ZOON,21455.34586,16.04
+W25,bsc,2023-01-29 10:04:37,swap_out,out,Wrapped BNB,WBNB,0.06195330495,19.29
+W25,bsc,2023-01-29 10:04:37,swap_in,in,CryptoZoon,ZOON,22923.5,16.44
+W25,bsc,2023-01-29 10:21:07,swap_out,out,Wrapped BNB,WBNB,0.1025671802,31.94
+W25,bsc,2023-01-29 10:21:07,swap_in,in,CryptoZoon,ZOON,37958.61418,27.22
+W25,bsc,2023-01-29 10:24:16,swap_out,out,Wrapped BNB,WBNB,1.011746574,315.06
+W25,bsc,2023-01-29 10:24:16,swap_in,in,CryptoZoon,ZOON,374932.1044,268.89
+W25,bsc,2023-01-29 10:44:46,swap_out,out,Wrapped BNB,WBNB,0.02019889723,6.29
+W25,bsc,2023-01-29 10:44:46,swap_in,in,CryptoZoon,ZOON,7494.556494,5.37
+W25,bsc,2023-01-29 14:55:10,swap_out,out,Wrapped BNB,WBNB,0.1201561238,37.81
+W25,bsc,2023-01-29 14:55:10,swap_in,in,CryptoZoon,ZOON,44589.9695,32.26
+W25,bsc,2023-01-29 14:56:13,swap_out,out,Wrapped BNB,WBNB,0.6278154415,197.57
+W25,bsc,2023-01-29 14:56:13,swap_in,in,CryptoZoon,ZOON,233191.3225,168.69
+W25,bsc,2023-01-29 15:00:37,swap_out,out,Wrapped BNB,WBNB,0.004036677632,1.29
+W25,bsc,2023-01-29 15:00:37,swap_in,in,CryptoZoon,ZOON,1500.4927,1.10
+W25,bsc,2023-01-29 15:10:25,swap_out,out,Wrapped BNB,WBNB,0.1472759976,46.92
+W25,bsc,2023-01-29 15:10:25,swap_in,in,CryptoZoon,ZOON,54754.5895,40.17
+W25,bsc,2023-01-29 15:13:13,swap_out,out,Wrapped BNB,WBNB,0.545027091,173.64
+W25,bsc,2023-01-29 15:13:13,swap_in,in,CryptoZoon,ZOON,202799.635,148.79
+W25,bsc,2023-01-29 16:44:17,swap_out,out,Wrapped BNB,WBNB,0.3059659431,97.44
+W25,bsc,2023-01-29 16:44:17,swap_in,in,CryptoZoon,ZOON,113963.539,85.58
+W25,bsc,2023-01-29 17:56:15,swap_out,out,Wrapped BNB,WBNB,0.0002622148859,0.08
+W25,bsc,2023-01-29 17:56:15,swap_in,in,CryptoZoon,ZOON,97.70348703,0.07
+W25,bsc,2023-01-30 11:17:27,swap_out,out,Wrapped BNB,WBNB,0.008823240226,2.71
+W25,bsc,2023-01-30 11:17:27,swap_in,in,CryptoZoon,ZOON,3287.649855,2.47
+W25,bsc,2023-01-30 13:42:40,swap_out,out,Wrapped BNB,WBNB,0.002498540066,0.77
+W25,bsc,2023-01-30 13:42:40,swap_in,in,CryptoZoon,ZOON,931,0.69
+W25,bsc,2023-01-30 15:00:29,swap_out,out,Wrapped BNB,WBNB,0.003975001234,1.23
+W25,bsc,2023-01-30 15:00:29,swap_in,in,CryptoZoon,ZOON,1481.166927,1.11
+W25,bsc,2023-01-31 1:22:12,swap_out,out,Wrapped BNB,WBNB,0.01242082256,3.81
+W25,bsc,2023-01-31 1:22:12,swap_in,in,CryptoZoon,ZOON,4628.344121,3.52
+W25,bsc,2023-01-31 2:39:08,swap_in,in,Wrapped BNB,WBNB,0.03391086458,10.52
+W25,bsc,2023-01-31 2:39:08,swap_out,out,CryptoZoon,ZOON,12321.25362,9.40
+W25,bsc,2023-01-31 2:39:08,swap_out,out,CryptoZoon,ZOON,251.4541556,0.19
+W25,bsc,2023-01-31 2:47:00,swap_in,in,Wrapped BNB,WBNB,0.0161225523,5.00
+W25,bsc,2023-01-31 2:47:00,swap_out,out,CryptoZoon,ZOON,119.5439792,0.09
+W25,bsc,2023-01-31 2:47:00,swap_out,out,CryptoZoon,ZOON,5857.654982,4.47
+W25,bsc,2023-01-31 3:00:16,swap_out,out,Wrapped BNB,WBNB,0.01493516079,4.62
+W25,bsc,2023-01-31 3:00:16,swap_in,in,CryptoZoon,ZOON,5564.772233,4.20
+W25,bsc,2023-01-31 3:53:10,swap_in,in,Wrapped BNB,WBNB,0.01580013869,4.89
+W25,bsc,2023-01-31 3:53:10,swap_out,out,CryptoZoon,ZOON,117.1530996,0.09
+W25,bsc,2023-01-31 3:53:10,swap_out,out,CryptoZoon,ZOON,5740.501883,4.34
+W25,bsc,2023-01-31 3:54:10,swap_out,out,Wrapped BNB,WBNB,0.007139192095,2.21
+W25,bsc,2023-01-31 3:54:10,swap_in,in,CryptoZoon,ZOON,2660,2.01
+W25,bsc,2023-01-31 3:57:58,swap_out,out,Wrapped BNB,WBNB,0.01463624088,4.53
+W25,bsc,2023-01-31 3:57:58,swap_in,in,CryptoZoon,ZOON,5453.476789,4.12
+W25,bsc,2023-01-31 5:22:43,swap_out,out,Wrapped BNB,WBNB,0.01883601887,5.90
+W25,bsc,2023-01-31 5:22:43,swap_in,in,CryptoZoon,ZOON,7018.6,5.29
+W25,bsc,2023-01-31 6:43:12,swap_out,out,Wrapped BNB,WBNB,0.01031899054,3.21
+W25,bsc,2023-01-31 6:43:12,swap_in,in,CryptoZoon,ZOON,3845.154555,2.93
+W25,bsc,2023-01-31 12:54:42,swap_out,out,Wrapped BNB,WBNB,0.01184635807,3.67
+W25,bsc,2023-01-31 12:54:42,swap_in,in,CryptoZoon,ZOON,4414.413403,3.36
+W25,bsc,2023-01-31 15:42:12,swap_in,in,Wrapped BNB,WBNB,0.0053940213,1.68
+W25,bsc,2023-01-31 15:42:12,swap_out,out,CryptoZoon,ZOON,40,0.03
+W25,bsc,2023-01-31 15:42:12,swap_out,out,CryptoZoon,ZOON,1960,1.50
+W25,bsc,2023-02-01 3:06:13,swap_out,out,Wrapped BNB,WBNB,0.01019740257,3.19
+W25,bsc,2023-02-01 3:06:13,swap_in,in,CryptoZoon,ZOON,3800,2.88
+W25,bsc,2023-02-01 9:27:35,swap_out,out,Wrapped BNB,WBNB,0.01882424752,5.78
+W25,bsc,2023-02-01 9:27:35,swap_in,in,CryptoZoon,ZOON,7014.985669,5.29
+W25,bsc,2023-02-01 15:18:07,swap_out,out,Wrapped BNB,WBNB,0.004224111253,1.31
+W25,bsc,2023-02-01 15:18:07,swap_in,in,CryptoZoon,ZOON,1574.187801,1.07
+W25,bsc,2023-02-02 0:47:34,swap_out,out,Wrapped BNB,WBNB,0.3728826139,118.25
+W25,bsc,2023-02-02 0:47:34,swap_in,in,CryptoZoon,ZOON,139024.0146,92.65
+W25,bsc,2023-02-02 3:22:14,swap_out,out,Wrapped BNB,WBNB,0.5652901241,181.68
+W25,bsc,2023-02-02 3:22:14,swap_in,in,CryptoZoon,ZOON,210998.116,137.81
+W25,bsc,2023-02-02 5:10:05,swap_out,out,Wrapped BNB,WBNB,0.2140187965,70.41
+W25,bsc,2023-02-02 5:10:05,swap_in,in,CryptoZoon,ZOON,79958.783,52.08
+W25,bsc,2023-02-02 11:21:59,swap_in,in,Wrapped BNB,WBNB,0.3024095978,99.55
+W25,bsc,2023-02-02 11:21:59,swap_out,out,CryptoZoon,ZOON,2248.123739,1.50
+W25,bsc,2023-02-02 11:21:59,swap_out,out,CryptoZoon,ZOON,110158.0632,73.67
+W25,bsc,2023-02-02 12:09:54,swap_in,in,Wrapped BNB,WBNB,0.01797362404,5.93
+W25,bsc,2023-02-02 12:09:54,swap_out,out,CryptoZoon,ZOON,6544.693316,4.34
+W25,bsc,2023-02-02 12:09:54,swap_out,out,CryptoZoon,ZOON,133.5651697,0.09
+W25,bsc,2023-02-02 13:11:14,swap_out,out,Wrapped BNB,WBNB,0.08820672277,29.25
+W25,bsc,2023-02-02 13:11:14,swap_in,in,CryptoZoon,ZOON,32941.25,21.86
+W25,bsc,2023-02-02 15:28:47,swap_out,out,Wrapped BNB,WBNB,0.006235540077,2.04
+W25,bsc,2023-02-02 15:28:47,swap_in,in,CryptoZoon,ZOON,2328.958923,1.63
+W25,bsc,2023-02-03 1:55:11,swap_out,out,Wrapped BNB,WBNB,0.03496414802,11.42
+W25,bsc,2023-02-03 1:55:11,swap_in,in,CryptoZoon,ZOON,13059.66987,9.68
+W25,bsc,2023-02-03 9:23:46,swap_in,in,Wrapped BNB,WBNB,0.1665727598,53.80
+W25,bsc,2023-02-03 9:23:46,swap_out,out,CryptoZoon,ZOON,60628.81,44.83
+W25,bsc,2023-02-03 9:23:46,swap_out,out,CryptoZoon,ZOON,1237.322653,0.91
+W25,bsc,2023-02-03 12:16:50,swap_out,out,Wrapped BNB,WBNB,0.1941450661,63.80
+W25,bsc,2023-02-03 12:16:50,swap_in,in,CryptoZoon,ZOON,72507.28825,55.85
+W25,bsc,2023-02-03 13:42:12,swap_out,out,Wrapped BNB,WBNB,0.001263298968,0.42
+W25,bsc,2023-02-03 13:42:12,swap_in,in,CryptoZoon,ZOON,471.9148064,0.36
+W25,bsc,2023-02-03 17:57:02,swap_in,in,Wrapped BNB,WBNB,0.006726042021,2.23
+W25,bsc,2023-02-03 17:57:02,swap_out,out,CryptoZoon,ZOON,2450,1.93
+W25,bsc,2023-02-03 17:57:02,swap_out,out,CryptoZoon,ZOON,50,0.04
+W25,bsc,2023-02-03 21:02:29,swap_in,in,Wrapped BNB,WBNB,0.04806994053,15.84
+W25,bsc,2023-02-03 21:02:29,swap_in,in,Wrapped BNB,WBNB,2.099241302,691.86
+W25,bsc,2023-02-03 21:02:29,swap_in,in,Wrapped BNB,WBNB,0.08607615678,28.37
+W25,bsc,2023-02-03 21:02:29,swap_in,in,Wrapped BNB,WBNB,1.686958323,555.98
+W25,bsc,2023-02-03 21:02:29,swap_in,in,Wrapped BNB,WBNB,0.595988038,196.42
+W25,bsc,2023-02-03 21:02:29,swap_out,out,Wrapped BNB,WBNB,46.32806751,15268.70
+W25,bsc,2023-02-03 21:02:29,swap_in,in,CryptoZoon,ZOON,18325500,14349.68
+W25,bsc,2023-02-03 21:02:29,swap_out,out,CryptoZoon,ZOON,19630.72495,15.37
+W25,bsc,2023-02-03 21:02:29,swap_out,out,CryptoZoon,ZOON,400.6270399,0.31
+W25,bsc,2023-02-03 21:02:29,swap_out,out,CryptoZoon,ZOON,17365.01922,13.60
+W25,bsc,2023-02-03 21:02:29,swap_out,out,CryptoZoon,ZOON,850885.9419,666.28
+W25,bsc,2023-02-03 21:02:29,swap_out,out,CryptoZoon,ZOON,717.5034432,0.56
+W25,bsc,2023-02-03 21:02:29,swap_out,out,CryptoZoon,ZOON,35157.66872,27.53
+W25,bsc,2023-02-03 21:02:29,swap_out,out,CryptoZoon,ZOON,687061.37,538.00
+W25,bsc,2023-02-03 21:02:29,swap_out,out,CryptoZoon,ZOON,14021.66061,10.98
+W25,bsc,2023-02-03 21:02:29,swap_out,out,CryptoZoon,ZOON,240869.9135,188.61
+W25,bsc,2023-02-03 21:02:29,swap_out,out,CryptoZoon,ZOON,4915.71252,3.85
+W25,bsc,2023-02-03 21:02:32,swap_in,in,Wrapped BNB,WBNB,0.4497749283,148.24
+W25,bsc,2023-02-03 21:02:32,swap_out,out,CryptoZoon,ZOON,181537.5915,142.15
+W25,bsc,2023-02-03 21:02:32,swap_out,out,CryptoZoon,ZOON,3704.848805,2.90
+W25,bsc,2023-02-03 21:13:47,swap_out,out,Wrapped BNB,WBNB,0.003012156372,0.99
+W25,bsc,2023-02-03 21:13:47,swap_in,in,CryptoZoon,ZOON,1246.096562,0.98
+W25,bsc,2023-02-04 8:54:32,swap_in,in,Wrapped BNB,WBNB,0.01053801257,3.46
+W25,bsc,2023-02-04 8:54:32,swap_out,out,CryptoZoon,ZOON,4250.897848,3.20
+W25,bsc,2023-02-04 8:54:32,swap_out,out,CryptoZoon,ZOON,86.75301731,0.07
+W25,bsc,2023-02-04 13:05:16,swap_in,in,Wrapped BNB,WBNB,0.002998208949,0.99
+W25,bsc,2023-02-04 13:05:16,swap_out,out,CryptoZoon,ZOON,24.682,0.02
+W25,bsc,2023-02-04 13:05:16,swap_out,out,CryptoZoon,ZOON,1209.418,0.91
+W25,bsc,2023-02-04 18:34:21,swap_out,out,Wrapped BNB,WBNB,0.05294150588,17.58
+W25,bsc,2023-02-04 18:34:21,swap_in,in,CryptoZoon,ZOON,21902.12977,16.42
+W25,bsc,2023-02-05 8:20:57,swap_in,in,Wrapped BNB,WBNB,0.01427425584,4.74
+W25,bsc,2023-02-05 8:20:57,swap_out,out,CryptoZoon,ZOON,5758.5976,4.16
+W25,bsc,2023-02-05 8:20:57,swap_out,out,CryptoZoon,ZOON,117.5224,0.08
+W25,bsc,2023-02-05 21:08:40,swap_in,in,Wrapped BNB,WBNB,0.0003,0.10
+W25,bsc,2023-02-05 21:08:40,swap_out,out,CryptoZoon,ZOON,2.469906038,0.00
+W25,bsc,2023-02-05 21:08:40,swap_out,out,CryptoZoon,ZOON,121.0253959,0.08
+W25,bsc,2023-02-06 14:11:36,swap_in,in,Wrapped BNB,WBNB,0.000099125,0.03
+W25,bsc,2023-02-06 14:11:36,swap_out,out,CryptoZoon,ZOON,39.98878772,0.00
+W25,bsc,2023-02-06 14:11:36,swap_out,out,CryptoZoon,ZOON,0.8160977086,0.00
+W25,bsc,2023-02-07 8:28:53,swap_out,out,Wrapped BNB,WBNB,0.2766940427,90.99
+W25,bsc,2023-02-07 8:28:53,swap_in,in,CryptoZoon,ZOON,114513,0.00
+W25,bsc,2023-02-07 12:28:38,swap_out,out,Wrapped BNB,WBNB,0.5105677411,168.67
+W25,bsc,2023-02-07 12:28:38,swap_in,in,CryptoZoon,ZOON,211514.9275,0.00
+W25,bsc,2023-02-07 14:13:35,swap_in,in,Wrapped BNB,WBNB,0.3031667387,99.71
+W25,bsc,2023-02-07 14:13:35,swap_out,out,CryptoZoon,ZOON,122500,0.00
+W25,bsc,2023-02-07 14:13:35,swap_out,out,CryptoZoon,ZOON,2500,0.00
+W25,bsc,2023-02-07 15:43:33,swap_out,out,Wrapped BNB,WBNB,0.2808466859,92.39
+W25,bsc,2023-02-07 15:43:33,swap_in,in,CryptoZoon,ZOON,116375,0.00
+W25,bsc,2023-02-07 16:24:17,swap_in,in,Wrapped BNB,WBNB,0.3031833011,99.37
+W25,bsc,2023-02-07 16:24:17,swap_out,out,CryptoZoon,ZOON,122500,0.00
+W25,bsc,2023-02-07 16:24:17,swap_out,out,CryptoZoon,ZOON,2500,0.00
+W25,bsc,2023-02-07 17:14:13,swap_in,in,Wrapped BNB,WBNB,0.02414206084,7.94
+W25,bsc,2023-02-07 17:14:13,swap_out,out,CryptoZoon,ZOON,9750.466676,0.00
+W25,bsc,2023-02-07 17:14:13,swap_out,out,CryptoZoon,ZOON,198.9891158,0.00
+W25,bsc,2023-02-07 17:18:01,swap_in,in,Wrapped BNB,WBNB,0.02414353295,7.94
+W25,bsc,2023-02-07 17:18:01,swap_out,out,CryptoZoon,ZOON,9750.466658,0.00
+W25,bsc,2023-02-07 17:18:01,swap_out,out,CryptoZoon,ZOON,198.9891155,0.00
+W25,bsc,2023-02-07 17:41:25,swap_out,out,Wrapped BNB,WBNB,0.2808962775,92.33
+W25,bsc,2023-02-07 17:41:25,swap_in,in,CryptoZoon,ZOON,116375,0.00
+W25,bsc,2023-02-07 19:50:33,swap_out,out,Wrapped BNB,WBNB,0.130165666,42.63
+W25,bsc,2023-02-07 19:50:33,swap_in,in,CryptoZoon,ZOON,53955.57444,0.00
+W25,bsc,2023-02-07 20:11:24,swap_out,out,Wrapped BNB,WBNB,0.022821245,7.54
+W25,bsc,2023-02-07 20:11:24,swap_in,in,CryptoZoon,ZOON,9461.574954,0.00
+W25,bsc,2023-02-08 1:58:02,swap_out,out,Wrapped BNB,WBNB,0.709673432,237.14
+W25,bsc,2023-02-08 1:58:02,swap_in,in,CryptoZoon,ZOON,294500,0.00
+W25,bsc,2023-02-08 2:43:19,swap_in,in,Wrapped BNB,WBNB,0.01209854156,4.03
+W25,bsc,2023-02-08 2:43:19,swap_out,out,CryptoZoon,ZOON,4900,0.00
+W25,bsc,2023-02-08 2:43:19,swap_out,out,CryptoZoon,ZOON,100,0.00
+W25,bsc,2023-02-08 5:11:01,swap_in,in,Wrapped BNB,WBNB,0.02,6.64
+W25,bsc,2023-02-08 5:11:01,swap_out,out,CryptoZoon,ZOON,8099.82119,0.00
+W25,bsc,2023-02-08 5:11:01,swap_out,out,CryptoZoon,ZOON,165.3024733,0.00
+W25,bsc,2023-02-08 12:14:39,swap_out,out,Wrapped BNB,WBNB,0.009903361303,3.28
+W25,bsc,2023-02-08 12:14:39,swap_in,in,CryptoZoon,ZOON,4113.112829,0.00
+W25,bsc,2023-02-08 12:45:04,swap_in,in,Wrapped BNB,WBNB,0.6,198.93
+W25,bsc,2023-02-08 12:45:04,swap_out,out,CryptoZoon,ZOON,242810.5797,0.00
+W25,bsc,2023-02-08 12:45:04,swap_out,out,CryptoZoon,ZOON,4955.317953,0.00
+W25,bsc,2023-02-08 14:17:25,swap_in,in,Wrapped BNB,WBNB,0.008482272606,2.82
+W25,bsc,2023-02-08 14:17:25,swap_out,out,CryptoZoon,ZOON,70,0.00
+W25,bsc,2023-02-08 14:17:25,swap_out,out,CryptoZoon,ZOON,3430,0.00
+W25,bsc,2023-02-08 15:17:15,swap_out,out,Wrapped BNB,WBNB,0.02422549797,8.00
+W25,bsc,2023-02-08 15:17:15,swap_in,in,CryptoZoon,ZOON,10046.421,0.00
+W25,bsc,2023-02-08 15:43:35,swap_in,in,Wrapped BNB,WBNB,0.2538953166,83.85
+W25,bsc,2023-02-08 15:43:35,swap_out,out,CryptoZoon,ZOON,2093.657714,0.00
+W25,bsc,2023-02-08 15:43:35,swap_out,out,CryptoZoon,ZOON,102589.228,0.00
+W25,bsc,2023-02-08 23:59:07,swap_in,in,Wrapped BNB,WBNB,0.001747899604,0.57
+W25,bsc,2023-02-08 23:59:07,swap_out,out,CryptoZoon,ZOON,14.416,0.00
+W25,bsc,2023-02-08 23:59:07,swap_out,out,CryptoZoon,ZOON,706.384,0.00
+W25,bsc,2023-02-09 10:19:19,swap_in,in,Wrapped BNB,WBNB,0.07860357957,25.29
+W25,bsc,2023-02-09 10:19:19,swap_out,out,CryptoZoon,ZOON,648.2262082,0.00
+W25,bsc,2023-02-09 10:19:19,swap_out,out,CryptoZoon,ZOON,31763.0842,0.00
+W25,bsc,2023-02-09 16:55:52,swap_in,in,Wrapped BNB,WBNB,1.453703688,464.50
+W25,bsc,2023-02-09 16:55:52,swap_out,out,Wrapped BNB,WBNB,2.022720127,646.32
+W25,bsc,2023-02-09 16:55:52,swap_in,in,CryptoZoon,ZOON,840298.3171,0.00
+W25,bsc,2023-02-09 16:55:52,swap_out,out,CryptoZoon,ZOON,12020.69224,0.00
+W25,bsc,2023-02-09 16:55:52,swap_out,out,CryptoZoon,ZOON,589013.92,0.00
+W25,bsc,2023-02-09 19:32:55,swap_in,in,Wrapped BNB,WBNB,0.1806601147,57.17
+W25,bsc,2023-02-09 19:32:55,swap_out,out,CryptoZoon,ZOON,73085.44335,0.00
+W25,bsc,2023-02-09 19:32:55,swap_out,out,CryptoZoon,ZOON,1491.53966,0.00
+W25,bsc,2023-02-09 19:32:58,swap_in,in,Wrapped BNB,WBNB,0.3096148275,97.98
+W25,bsc,2023-02-09 19:32:58,swap_out,out,CryptoZoon,ZOON,125113.37,0.00
+W25,bsc,2023-02-09 19:32:58,swap_out,out,CryptoZoon,ZOON,2553.334082,0.00
+W25,bsc,2023-02-09 21:28:50,swap_in,in,Wrapped BNB,WBNB,0.2913483949,90.18
+W25,bsc,2023-02-09 21:28:50,swap_out,out,CryptoZoon,ZOON,2400.871306,0.00
+W25,bsc,2023-02-09 21:28:50,swap_out,out,CryptoZoon,ZOON,117642.694,0.00
+W25,bsc,2023-02-09 21:31:26,swap_in,in,Wrapped BNB,WBNB,0.1195086824,36.99
+W25,bsc,2023-02-09 21:31:26,swap_out,out,CryptoZoon,ZOON,48231.01,0.00
+W25,bsc,2023-02-09 21:31:26,swap_out,out,CryptoZoon,ZOON,984.3063265,0.00
+W25,bsc,2023-02-09 21:32:23,swap_in,in,Wrapped BNB,WBNB,0.07132874749,22.08
+W25,bsc,2023-02-09 21:32:23,swap_out,out,CryptoZoon,ZOON,587.3415918,0.00
+W25,bsc,2023-02-09 21:32:23,swap_out,out,CryptoZoon,ZOON,28779.738,0.00
+W25,bsc,2023-02-10 4:26:13,swap_in,in,Wrapped BNB,WBNB,0.2099914938,64.46
+W25,bsc,2023-02-10 4:26:13,swap_out,out,CryptoZoon,ZOON,84739.82257,0.00
+W25,bsc,2023-02-10 4:26:13,swap_out,out,CryptoZoon,ZOON,1729.384134,0.00
+W25,bsc,2023-02-10 4:26:58,swap_in,in,Wrapped BNB,WBNB,0.09837436711,30.20
+W25,bsc,2023-02-10 4:26:58,swap_out,out,CryptoZoon,ZOON,39682.46858,0.00
+W25,bsc,2023-02-10 4:26:58,swap_out,out,CryptoZoon,ZOON,809.8462976,0.00
+W25,bsc,2023-02-10 5:36:22,swap_in,in,Wrapped BNB,WBNB,0.3219061297,98.41
+W25,bsc,2023-02-10 5:36:22,swap_out,out,CryptoZoon,ZOON,2647.293408,0.00
+W25,bsc,2023-02-10 5:36:22,swap_out,out,CryptoZoon,ZOON,129717.377,0.00
+W25,bsc,2023-02-10 7:42:34,swap_in,in,Wrapped BNB,WBNB,0.09920889496,30.48
+W25,bsc,2023-02-10 7:42:34,swap_out,out,CryptoZoon,ZOON,815.4410612,0.00
+W25,bsc,2023-02-10 7:42:34,swap_out,out,CryptoZoon,ZOON,39956.612,0.00
+W25,bsc,2023-02-10 9:40:09,swap_in,in,Wrapped BNB,WBNB,0.02189168489,6.74
+W25,bsc,2023-02-10 9:40:09,swap_out,out,CryptoZoon,ZOON,180,0.00
+W25,bsc,2023-02-10 9:40:09,swap_out,out,CryptoZoon,ZOON,8820,0.00
+W25,bsc,2023-02-10 15:56:32,swap_out,out,Wrapped BNB,WBNB,0.02027942151,6.24
+W25,bsc,2023-02-10 15:56:32,swap_in,in,CryptoZoon,ZOON,8379,0.00
+W25,bsc,2023-02-10 16:04:05,swap_in,in,Wrapped BNB,WBNB,0.09904975795,30.27
+W25,bsc,2023-02-10 16:04:05,swap_out,out,CryptoZoon,ZOON,813.9263265,0.00
+W25,bsc,2023-02-10 16:04:05,swap_out,out,CryptoZoon,ZOON,39882.39,0.00
+W25,bsc,2023-02-11 5:20:28,swap_out,out,Wrapped BNB,WBNB,0.2860392366,87.98
+W25,bsc,2023-02-11 5:20:28,swap_in,in,CryptoZoon,ZOON,118201.1766,0.00
+W25,bsc,2023-02-11 9:53:47,swap_out,out,Wrapped BNB,WBNB,0.07421418341,22.81
+W25,bsc,2023-02-11 9:53:47,swap_in,in,CryptoZoon,ZOON,30681.81903,0.00
+W25,bsc,2023-02-11 20:45:13,swap_out,out,Wrapped BNB,WBNB,0.003589587521,1.10
+W25,bsc,2023-02-11 20:45:13,swap_in,in,CryptoZoon,ZOON,1484.162741,0.00
+W25,bsc,2023-02-12 0:33:00,swap_out,out,Wrapped BNB,WBNB,0.01527910499,4.70
+W25,bsc,2023-02-12 0:33:00,swap_in,in,CryptoZoon,ZOON,6317.5,0.00
+W25,bsc,2023-02-12 14:59:39,swap_out,out,Wrapped BNB,WBNB,0.04638512532,14.30
+W25,bsc,2023-02-12 14:59:39,swap_in,in,CryptoZoon,ZOON,19180.5,0.00
+W25,bsc,2023-02-12 20:07:22,swap_in,in,Wrapped BNB,WBNB,0.01,3.20
+W25,bsc,2023-02-12 20:07:22,swap_out,out,CryptoZoon,ZOON,82.29188974,0.00
+W25,bsc,2023-02-12 20:07:22,swap_out,out,CryptoZoon,ZOON,4032.302597,0.00
+W25,bsc,2023-02-13 5:43:5,swap_in,in,Wrapped BNB,WBNB,0.008506504717,2.66
+W25,bsc,2023-02-13 5:43:05,swap_out,out,CryptoZoon,ZOON,3430,0.00
+W25,bsc,2023-02-13 5:43:05,swap_out,out,CryptoZoon,ZOON,70,0.00
+W25,bsc,2023-02-13 9:25:35,swap_in,in,Wrapped BNB,WBNB,0.05656553252,16.91
+W25,bsc,2023-02-13 9:25:35,swap_out,out,CryptoZoon,ZOON,22806.53079,0.00
+W25,bsc,2023-02-13 9:25:35,swap_out,out,CryptoZoon,ZOON,465.4394039,0.00
+W25,bsc,2023-02-13 17:53:35,swap_out,out,Wrapped BNB,WBNB,0.008095645695,2.31
+W25,bsc,2023-02-13 17:53:35,swap_in,in,CryptoZoon,ZOON,3347.189978,0.00
+W25,bsc,2023-02-13 17:58:05,swap_in,in,Wrapped BNB,WBNB,0.1005084651,28.64
+W25,bsc,2023-02-13 17:58:05,swap_out,out,CryptoZoon,ZOON,826.4546853,0.00
+W25,bsc,2023-02-13 17:58:05,swap_out,out,CryptoZoon,ZOON,40496.27958,0.00
+W25,bsc,2023-02-13 20:13:16,swap_out,out,Wrapped BNB,WBNB,0.009267197746,2.68
+W25,bsc,2023-02-13 20:13:16,swap_in,in,CryptoZoon,ZOON,3830.687467,0.00
+W25,bsc,2023-02-14 2:03:11,swap_out,out,Wrapped BNB,WBNB,0.01444887545,4.21
+W25,bsc,2023-02-14 2:03:11,swap_in,in,CryptoZoon,ZOON,5972.764084,0.00
+W25,bsc,2023-02-14 15:03:34,swap_in,in,Wrapped BNB,WBNB,0.0243129824,7.25
+W25,bsc,2023-02-14 15:03:34,swap_out,out,CryptoZoon,ZOON,9800,0.00
+W25,bsc,2023-02-14 15:03:34,swap_out,out,CryptoZoon,ZOON,200,0.00
+W25,bsc,2023-02-14 18:03:47,swap_in,in,Wrapped BNB,WBNB,0.002309810986,0.68
+W25,bsc,2023-02-14 18:03:47,swap_out,out,CryptoZoon,ZOON,931,0.00
+W25,bsc,2023-02-14 18:03:47,swap_out,out,CryptoZoon,ZOON,19,0.00
+W25,bsc,2023-02-14 18:05:53,swap_in,in,Wrapped BNB,WBNB,0.0001215693726,0.04
+W25,bsc,2023-02-14 18:05:53,swap_out,out,CryptoZoon,ZOON,49,0.00
+W25,bsc,2023-02-14 18:05:53,swap_out,out,CryptoZoon,ZOON,1,0.00
+W25,bsc,2023-02-14 18:39:01,swap_in,in,Wrapped BNB,WBNB,0.00753737384,2.23
+W25,bsc,2023-02-14 18:39:01,swap_out,out,CryptoZoon,ZOON,3038,0.00
+W25,bsc,2023-02-14 18:39:01,swap_out,out,CryptoZoon,ZOON,62,0.00
+W25,bsc,2023-02-14 18:57:10,swap_out,out,Wrapped BNB,WBNB,0.01522305447,4.51
+W25,bsc,2023-02-14 18:57:10,swap_in,in,CryptoZoon,ZOON,6292.48004,0.00
+W25,bsc,2023-02-15 10:56:38,swap_out,out,Wrapped BNB,WBNB,0.1801903189,53.73
+W25,bsc,2023-02-15 10:56:38,swap_in,in,CryptoZoon,ZOON,74500.42181,0.00
+W25,bsc,2023-02-15 13:08:49,swap_out,out,Wrapped BNB,WBNB,0.08475087511,25.76
+W25,bsc,2023-02-15 13:08:49,swap_in,in,CryptoZoon,ZOON,35052.34548,0.00
+W25,bsc,2023-02-15 15:17:30,swap_out,out,Wrapped BNB,WBNB,0.1272912038,38.72
+W25,bsc,2023-02-15 15:17:30,swap_in,in,CryptoZoon,ZOON,52660.83815,0.00
+W25,bsc,2023-02-15 21:20:31,swap_out,out,Wrapped BNB,WBNB,0.004079898759,1.28
+W25,bsc,2023-02-15 21:20:31,swap_in,in,CryptoZoon,ZOON,1688.15,0.00
+W25,bsc,2023-02-16 0:22:13,swap_out,out,Wrapped BNB,WBNB,1.465362381,464.93
+W25,bsc,2023-02-16 0:22:13,swap_in,in,CryptoZoon,ZOON,607454.776,0.00
+W25,bsc,2023-02-16 1:16:22,swap_out,out,Wrapped BNB,WBNB,0.6780811628,215.01
+W25,bsc,2023-02-16 1:16:22,swap_in,in,CryptoZoon,ZOON,281858.1847,0.00
+W25,bsc,2023-02-16 2:47:14,swap_in,in,Wrapped BNB,WBNB,0.004106789482,1.32
+W25,bsc,2023-02-16 2:47:14,swap_out,out,CryptoZoon,ZOON,1666,0.00
+W25,bsc,2023-02-16 2:47:14,swap_out,out,CryptoZoon,ZOON,34,0.00
+W25,bsc,2023-02-16 7:24:31,swap_out,out,Wrapped BNB,WBNB,0.02283455891,7.39
+W25,bsc,2023-02-16 7:24:31,swap_in,in,CryptoZoon,ZOON,9500,0.00
+W25,bsc,2023-02-16 10:21:57,swap_out,out,Wrapped BNB,WBNB,0.001338335558,0.43
+W25,bsc,2023-02-16 10:21:57,swap_in,in,CryptoZoon,ZOON,556.8129543,0.00
+W25,bsc,2023-02-16 12:41:35,swap_out,out,Wrapped BNB,WBNB,0.5846618175,186.61
+W25,bsc,2023-02-16 12:41:35,swap_in,in,CryptoZoon,ZOON,243428.6439,0.00
+W25,bsc,2023-02-16 16:00:03,swap_out,out,Wrapped BNB,WBNB,0.3738786734,121.26
+W25,bsc,2023-02-16 16:00:03,swap_in,in,CryptoZoon,ZOON,155857,0.00
+W25,bsc,2023-02-16 16:58:18,swap_out,out,Wrapped BNB,WBNB,1.244619071,403.68
+W25,bsc,2023-02-16 16:58:18,swap_in,in,CryptoZoon,ZOON,519906.1134,0.00
+W25,bsc,2023-02-17 0:40:34,swap_in,in,Wrapped BNB,WBNB,0.4244778057,129.43
+W25,bsc,2023-02-17 0:40:34,swap_out,out,CryptoZoon,ZOON,173081.1645,0.00
+W25,bsc,2023-02-17 0:40:34,swap_out,out,CryptoZoon,ZOON,3532.268664,0.00
+W25,bsc,2023-02-17 9:50:22,swap_out,out,Wrapped BNB,WBNB,0.02323929228,7.21
+W25,bsc,2023-02-17 9:50:22,swap_in,in,CryptoZoon,ZOON,9712.8,0.00
+W25,bsc,2023-02-17 10:15:47,swap_in,in,Wrapped BNB,WBNB,0.011131375,3.45
+W25,bsc,2023-02-17 10:15:47,swap_out,out,CryptoZoon,ZOON,92.58335029,0.00
+W25,bsc,2023-02-17 10:15:47,swap_out,out,CryptoZoon,ZOON,4536.584164,0.00
+W25,bsc,2023-02-17 18:20:51,swap_out,out,Wrapped BNB,WBNB,0.003851918929,1.20
+W25,bsc,2023-02-17 18:20:51,swap_in,in,CryptoZoon,ZOON,1609.909254,0.00
+W25,bsc,2023-02-18 3:08:37,swap_in,in,Wrapped BNB,WBNB,0.07695558121,24.20
+W25,bsc,2023-02-18 3:08:37,swap_out,out,CryptoZoon,ZOON,31360,0.00
+W25,bsc,2023-02-18 3:08:37,swap_out,out,CryptoZoon,ZOON,640,0.00
+W25,bsc,2023-02-18 3:38:12,swap_out,out,Wrapped BNB,WBNB,0.003091855646,0.97
+W25,bsc,2023-02-18 3:38:12,swap_in,in,CryptoZoon,ZOON,1292,0.00
+W25,bsc,2023-02-18 4:22:46,swap_out,out,Wrapped BNB,WBNB,0.06478697692,20.41
+W25,bsc,2023-02-18 4:22:46,swap_in,in,CryptoZoon,ZOON,27075,0.00
+W25,bsc,2023-02-18 9:06:45,swap_out,out,Wrapped BNB,WBNB,0.02751218486,8.70
+W25,bsc,2023-02-18 9:06:45,swap_in,in,CryptoZoon,ZOON,11498.91417,0.00
+W25,bsc,2023-02-18 22:11:15,swap_in,in,Wrapped BNB,WBNB,0.07214199942,22.75
+W25,bsc,2023-02-18 22:11:15,swap_out,out,CryptoZoon,ZOON,600,0.00
+W25,bsc,2023-02-18 22:11:15,swap_out,out,CryptoZoon,ZOON,29400,0.00
+W25,bsc,2023-02-19 5:53:57,swap_in,in,Wrapped BNB,WBNB,0.01262303378,3.98
+W25,bsc,2023-02-19 5:53:57,swap_out,out,CryptoZoon,ZOON,104.9735976,0.00
+W25,bsc,2023-02-19 5:53:57,swap_out,out,CryptoZoon,ZOON,5143.70628,0.00
+W25,bsc,2023-02-19 7:57:21,swap_out,out,Wrapped BNB,WBNB,0.03803035693,12.01
+W25,bsc,2023-02-19 7:57:21,swap_in,in,CryptoZoon,ZOON,15892.96577,0.00
+W25,bsc,2023-02-19 11:54:38,swap_out,out,Wrapped BNB,WBNB,0.02243534779,7.07
+W25,bsc,2023-02-19 11:54:38,swap_in,in,CryptoZoon,ZOON,9376.5,0.00
+W25,bsc,2023-02-19 14:21:21,swap_in,in,Wrapped BNB,WBNB,0.3608640397,114.00
+W25,bsc,2023-02-19 14:21:21,swap_out,out,CryptoZoon,ZOON,3000,0.00
+W25,bsc,2023-02-19 14:21:21,swap_out,out,CryptoZoon,ZOON,147000,0.00
+W25,bsc,2023-02-19 22:14:26,swap_in,in,Wrapped BNB,WBNB,0.09,28.18
+W25,bsc,2023-02-19 22:14:26,swap_out,out,CryptoZoon,ZOON,36641.03481,0.00
+W25,bsc,2023-02-19 22:14:26,swap_out,out,CryptoZoon,ZOON,747.7762205,0.00
+W25,bsc,2023-02-20 16:11:50,swap_out,out,Wrapped BNB,WBNB,0.06475015161,20.54
+W25,bsc,2023-02-20 16:11:50,swap_in,in,CryptoZoon,ZOON,27033.371,0.00
+W25,bsc,2023-02-20 20:13:21,swap_in,in,Wrapped BNB,WBNB,0.3172424943,99.81
+W25,bsc,2023-02-20 20:13:21,swap_out,out,CryptoZoon,ZOON,129111.2262,0.00
+W25,bsc,2023-02-20 20:13:21,swap_out,out,CryptoZoon,ZOON,2634.922984,0.00
+W25,bsc,2023-02-20 20:25:48,swap_out,out,Wrapped BNB,WBNB,0.5006386731,157.51
+W25,bsc,2023-02-20 20:25:48,swap_in,in,CryptoZoon,ZOON,209000,0.00
+W25,bsc,2023-02-20 20:33:33,swap_out,out,Wrapped BNB,WBNB,0.1895713546,59.64
+W25,bsc,2023-02-20 20:33:33,swap_in,in,CryptoZoon,ZOON,79209.24106,0.00
+W25,bsc,2023-02-21 5:50:07,swap_out,out,Wrapped BNB,WBNB,0.05436917419,17.14
+W25,bsc,2023-02-21 5:50:07,swap_in,in,CryptoZoon,ZOON,22724.3089,14.34
+W25,bsc,2023-02-23 17:02:56,swap_out,out,Wrapped BNB,WBNB,0.003675052806,1.13
+W25,bsc,2023-02-23 17:02:56,swap_in,in,CryptoZoon,ZOON,1536.15,0.97
+W25,bsc,2023-02-23 18:39:47,swap_in,in,Wrapped BNB,WBNB,0.0138675875,4.28
+W25,bsc,2023-02-23 18:39:47,swap_out,out,CryptoZoon,ZOON,5652.196376,3.57
+W25,bsc,2023-02-23 18:39:47,swap_out,out,CryptoZoon,ZOON,115.3509465,0.07
+W25,bsc,2023-02-23 18:45:41,swap_in,in,Wrapped BNB,WBNB,0.00019825,0.06
+W25,bsc,2023-02-23 18:45:41,swap_out,out,CryptoZoon,ZOON,80.80193562,0.05
+W25,bsc,2023-02-23 18:45:41,swap_out,out,CryptoZoon,ZOON,1.649019094,0.00
+W25,bsc,2023-02-24 3:40:44,swap_out,out,Wrapped BNB,WBNB,0.02811891619,8.69
+W25,bsc,2023-02-24 3:40:44,swap_in,in,CryptoZoon,ZOON,11753.59342,6.97
+W25,bsc,2023-02-24 7:26:56,swap_in,in,Wrapped BNB,WBNB,0.0118,3.66
+W25,bsc,2023-02-24 7:26:56,swap_out,out,CryptoZoon,ZOON,98.1564754,0.06
+W25,bsc,2023-02-24 7:26:56,swap_out,out,CryptoZoon,ZOON,4809.667295,2.88
+W25,bsc,2023-02-24 11:10:17,swap_out,out,Wrapped BNB,WBNB,0.01890740707,5.87
+W25,bsc,2023-02-24 11:10:17,swap_in,in,CryptoZoon,ZOON,7903.455984,4.80
+W25,bsc,2023-02-24 23:28:56,swap_out,out,Wrapped BNB,WBNB,0.001286047567,0.39
+W25,bsc,2023-02-24 23:28:56,swap_in,in,CryptoZoon,ZOON,537.5925759,0.34
+W25,bsc,2023-02-25 0:30:14,swap_out,out,Wrapped BNB,WBNB,0.0280005211,8.45
+W25,bsc,2023-02-25 0:30:14,swap_in,in,CryptoZoon,ZOON,11705.19094,7.36
+W25,bsc,2023-02-25 5:39:55,swap_in,in,Wrapped BNB,WBNB,0.01042487908,3.14
+W25,bsc,2023-02-25 5:39:55,swap_out,out,CryptoZoon,ZOON,4249.570597,2.71
+W25,bsc,2023-02-25 5:39:55,swap_out,out,CryptoZoon,ZOON,86.72593055,0.06
+W25,bsc,2023-02-25 16:27:56,swap_out,out,Wrapped BNB,WBNB,0.01101811492,3.32
+W25,bsc,2023-02-25 16:27:56,swap_in,in,CryptoZoon,ZOON,4606.061824,3.13
+W25,bsc,2023-02-26 4:01:27,swap_in,in,Wrapped BNB,WBNB,0.01042633889,3.17
+W25,bsc,2023-02-26 4:01:27,swap_out,out,CryptoZoon,ZOON,4250.172359,2.79
+W25,bsc,2023-02-26 4:01:27,swap_out,out,CryptoZoon,ZOON,86.7382114,0.06
+W25,bsc,2023-02-26 6:22:51,swap_out,out,Wrapped BNB,WBNB,0.004084428763,1.24
+W25,bsc,2023-02-26 6:22:51,swap_in,in,CryptoZoon,ZOON,1707.460432,1.12
+W25,bsc,2023-02-27 14:13:23,swap_in,in,Wrapped BNB,WBNB,0.0060102969,1.84
+W25,bsc,2023-02-27 14:13:23,swap_out,out,CryptoZoon,ZOON,2450,1.70
+W25,bsc,2023-02-27 14:13:23,swap_out,out,CryptoZoon,ZOON,50,0.03
+W25,bsc,2023-02-27 14:59:01,swap_out,out,Wrapped BNB,WBNB,0.001453663129,0.45
+W25,bsc,2023-02-27 14:59:01,swap_in,in,CryptoZoon,ZOON,607.6864253,0.42
+W25,bsc,2023-02-27 18:35:01,swap_out,out,Wrapped BNB,WBNB,0.004570025963,1.38
+W25,bsc,2023-02-27 18:35:01,swap_in,in,CryptoZoon,ZOON,1910.459135,1.32
+W25,bsc,2023-02-28 2:47:13,swap_out,out,Wrapped BNB,WBNB,0.2891817172,88.07
+W25,bsc,2023-02-28 2:47:13,swap_in,in,CryptoZoon,ZOON,120935,83.95
+W25,bsc,2023-02-28 3:16:15,swap_out,out,Wrapped BNB,WBNB,0.02912217227,8.87
+W25,bsc,2023-02-28 3:16:15,swap_in,in,CryptoZoon,ZOON,12183.75,8.45
+W25,bsc,2023-02-28 5:20:21,swap_out,out,Wrapped BNB,WBNB,0.002513796948,0.76
+W25,bsc,2023-02-28 5:20:21,swap_in,in,CryptoZoon,ZOON,1051.731562,0.73
+W25,bsc,2023-03-01 11:41:56,swap_out,out,Wrapped BNB,WBNB,0.02728263038,8.30
+W25,bsc,2023-03-01 11:41:56,swap_in,in,CryptoZoon,ZOON,11415.03901,7.62
+W25,bsc,2023-03-02 7:49:00,swap_out,out,Wrapped BNB,WBNB,0.05823345763,17.43
+W25,bsc,2023-03-02 7:49:00,swap_in,in,CryptoZoon,ZOON,24367.5,16.52
+W25,bsc,2023-03-02 15:43:34,swap_out,out,Wrapped BNB,WBNB,0.03179171278,9.44
+W25,bsc,2023-03-02 15:43:34,swap_in,in,CryptoZoon,ZOON,13304.60832,8.95
+W25,bsc,2023-03-03 1:34:43,swap_in,in,Wrapped BNB,WBNB,0.04506519024,13.47
+W25,bsc,2023-03-03 1:34:43,swap_out,out,CryptoZoon,ZOON,18389.67443,12.73
+W25,bsc,2023-03-03 1:34:43,swap_out,out,CryptoZoon,ZOON,375.2994781,0.26
+W25,bsc,2023-03-03 9:04:15,swap_in,in,Wrapped BNB,WBNB,0.04803925642,13.99
+W25,bsc,2023-03-03 9:04:15,swap_out,out,CryptoZoon,ZOON,400.02,0.27
+W25,bsc,2023-03-03 9:04:15,swap_out,out,CryptoZoon,ZOON,19600.98,13.02
+W25,bsc,2023-03-03 11:03:08,swap_out,out,Wrapped BNB,WBNB,0.4797467653,139.42
+W25,bsc,2023-03-03 11:03:08,swap_in,in,CryptoZoon,ZOON,200853.788,134.50
+W25,bsc,2023-03-03 11:03:20,swap_out,out,Wrapped BNB,WBNB,0.8170890216,237.45
+W25,bsc,2023-03-03 11:03:20,swap_in,in,CryptoZoon,ZOON,342652.8495,229.45
+W25,bsc,2023-03-03 11:08:08,swap_out,out,Wrapped BNB,WBNB,0.1860809616,54.08
+W25,bsc,2023-03-03 11:08:08,swap_in,in,CryptoZoon,ZOON,78134.422,52.32
+W25,bsc,2023-03-03 11:08:11,swap_out,out,Wrapped BNB,WBNB,0.09778260281,28.42
+W25,bsc,2023-03-03 11:08:11,swap_in,in,CryptoZoon,ZOON,41073.269,27.50
+W25,bsc,2023-03-04 9:33:53,swap_out,out,Wrapped BNB,WBNB,0.004830664325,1.40
+W25,bsc,2023-03-04 9:33:53,swap_in,in,CryptoZoon,ZOON,2029.370844,1.33
+W25,bsc,2023-03-04 12:16:22,swap_out,out,Wrapped BNB,WBNB,0.4816364708,140.21
+W25,bsc,2023-03-04 12:16:22,swap_in,in,CryptoZoon,ZOON,202461.7761,133.00
+W25,bsc,2023-03-05 7:41:53,swap_in,in,Wrapped BNB,WBNB,0.1029,29.89
+W25,bsc,2023-03-05 7:41:53,swap_out,out,CryptoZoon,ZOON,861.2022778,0.56
+W25,bsc,2023-03-05 7:41:53,swap_out,out,CryptoZoon,ZOON,42198.91161,27.29
+W25,bsc,2023-03-05 8:28:23,swap_out,out,Wrapped BNB,WBNB,0.007159089252,2.08
+W25,bsc,2023-03-05 8:28:23,swap_in,in,CryptoZoon,ZOON,3010.501101,1.94
+W25,bsc,2023-03-05 21:07:12,swap_out,out,Wrapped BNB,WBNB,0.04845758328,14.04
+W25,bsc,2023-03-05 21:07:12,swap_in,in,CryptoZoon,ZOON,20378.56261,13.68
+W25,bsc,2023-03-06 5:37:23,swap_out,out,Wrapped BNB,WBNB,0.003506774533,1.00
+W25,bsc,2023-03-06 5:37:23,swap_in,in,CryptoZoon,ZOON,1474.852068,0.98
+W25,bsc,2023-03-06 17:02:42,swap_out,out,Wrapped BNB,WBNB,0.03010159104,8.68
+W25,bsc,2023-03-06 17:02:42,swap_in,in,CryptoZoon,ZOON,12660.43625,8.87
+W25,bsc,2023-03-06 18:32:00,swap_in,in,Wrapped BNB,WBNB,0.01189934743,3.43
+W25,bsc,2023-03-06 18:32:00,swap_out,out,CryptoZoon,ZOON,4880.275949,3.42
+W25,bsc,2023-03-06 18:32:00,swap_out,out,CryptoZoon,ZOON,99.59746835,0.07
+W25,bsc,2023-03-06 18:42:01,swap_in,in,Wrapped BNB,WBNB,0.01119935573,3.23
+W25,bsc,2023-03-06 18:42:01,swap_out,out,CryptoZoon,ZOON,4593.053535,3.22
+W25,bsc,2023-03-06 18:42:01,swap_out,out,CryptoZoon,ZOON,93.73578644,0.07
+W25,bsc,2023-03-06 19:09:00,swap_in,in,Wrapped BNB,WBNB,0.007802792574,2.25
+W25,bsc,2023-03-06 19:09:00,swap_out,out,CryptoZoon,ZOON,3199.985616,2.23
+W25,bsc,2023-03-06 19:09:00,swap_out,out,CryptoZoon,ZOON,65.30582889,0.05
+W25,bsc,2023-03-06 19:12:48,swap_in,in,Wrapped BNB,WBNB,0.008138068818,2.35
+W25,bsc,2023-03-06 19:12:48,swap_out,out,CryptoZoon,ZOON,3337.417299,2.33
+W25,bsc,2023-03-06 19:12:48,swap_out,out,CryptoZoon,ZOON,68.11055712,0.05
+W25,bsc,2023-03-06 19:30:43,swap_in,in,Wrapped BNB,WBNB,0.01286464534,3.72
+W25,bsc,2023-03-06 19:30:43,swap_out,out,CryptoZoon,ZOON,5275.642628,3.68
+W25,bsc,2023-03-06 19:30:43,swap_out,out,CryptoZoon,ZOON,107.6661761,0.08
+W25,bsc,2023-03-06 19:37:01,swap_in,in,Wrapped BNB,WBNB,0.007721513485,2.23
+W25,bsc,2023-03-06 19:37:01,swap_out,out,CryptoZoon,ZOON,3166.42062,2.21
+W25,bsc,2023-03-06 19:37:01,swap_out,out,CryptoZoon,ZOON,64.62082898,0.05
+W25,bsc,2023-03-06 19:39:52,swap_in,in,Wrapped BNB,WBNB,0.00868670267,2.51
+W25,bsc,2023-03-06 19:39:52,swap_out,out,CryptoZoon,ZOON,3562.148828,2.48
+W25,bsc,2023-03-06 19:39:52,swap_out,out,CryptoZoon,ZOON,72.69691485,0.05
+W25,bsc,2023-03-06 19:51:13,swap_in,in,Wrapped BNB,WBNB,0.009457283048,2.73
+W25,bsc,2023-03-06 19:51:13,swap_out,out,CryptoZoon,ZOON,3878.050542,2.70
+W25,bsc,2023-03-06 19:51:13,swap_out,out,CryptoZoon,ZOON,79.14388861,0.06
+W25,bsc,2023-03-06 20:27:34,swap_in,in,Wrapped BNB,WBNB,0.01264616831,3.64
+W25,bsc,2023-03-06 20:27:34,swap_out,out,CryptoZoon,ZOON,5185.538019,3.61
+W25,bsc,2023-03-06 20:27:34,swap_out,out,CryptoZoon,ZOON,105.8273065,0.07
+W25,bsc,2023-03-06 20:41:49,swap_in,in,Wrapped BNB,WBNB,0.01407148711,4.05
+W25,bsc,2023-03-06 20:41:49,swap_out,out,CryptoZoon,ZOON,5769.791226,4.01
+W25,bsc,2023-03-06 20:41:49,swap_out,out,CryptoZoon,ZOON,117.7508413,0.08
+W25,bsc,2023-03-06 21:02:48,swap_in,in,Wrapped BNB,WBNB,0.01097267706,3.15
+W25,bsc,2023-03-06 21:02:48,swap_out,out,CryptoZoon,ZOON,4499.029675,3.08
+W25,bsc,2023-03-06 21:02:48,swap_out,out,CryptoZoon,ZOON,91.81693214,0.06
+W25,bsc,2023-03-06 21:10:21,swap_in,in,Wrapped BNB,WBNB,0.009601092425,2.76
+W25,bsc,2023-03-06 21:10:21,swap_out,out,CryptoZoon,ZOON,3936.547905,2.70
+W25,bsc,2023-03-06 21:10:21,swap_out,out,CryptoZoon,ZOON,80.33771236,0.06
+W25,bsc,2023-03-07 3:16:39,swap_out,out,Wrapped BNB,WBNB,0.01260365133,3.64
+W25,bsc,2023-03-07 3:16:39,swap_in,in,CryptoZoon,ZOON,5299.575059,3.67
+W25,bsc,2023-03-07 3:22:06,swap_out,out,Wrapped BNB,WBNB,0.1807015774,52.22
+W25,bsc,2023-03-07 3:22:06,swap_in,in,CryptoZoon,ZOON,76000,52.57
+W25,bsc,2023-03-07 3:23:00,swap_out,out,Wrapped BNB,WBNB,0.01806557149,5.22
+W25,bsc,2023-03-07 3:23:00,swap_in,in,CryptoZoon,ZOON,7600,5.26
+W25,bsc,2023-03-07 7:45:17,swap_out,out,Wrapped BNB,WBNB,0.2198121178,63.26
+W25,bsc,2023-03-07 7:45:17,swap_in,in,CryptoZoon,ZOON,92500.74,63.30
+W25,bsc,2023-03-08 15:33:11,swap_in,in,Wrapped BNB,WBNB,0.04601099864,13.24
+W25,bsc,2023-03-08 15:33:11,swap_out,out,CryptoZoon,ZOON,385.3963569,0.26
+W25,bsc,2023-03-08 15:33:11,swap_out,out,CryptoZoon,ZOON,18884.42149,12.55
+W25,bsc,2023-03-08 15:39:32,swap_in,in,Wrapped BNB,WBNB,0.02567383884,7.39
+W25,bsc,2023-03-08 15:39:32,swap_out,out,CryptoZoon,ZOON,215.0290373,0.14
+W25,bsc,2023-03-08 15:39:32,swap_out,out,CryptoZoon,ZOON,10536.42283,7.00
+W25,bsc,2023-03-09 12:19:54,swap_out,out,Wrapped BNB,WBNB,0.5477112333,158.33
+W25,bsc,2023-03-09 12:19:54,swap_in,in,CryptoZoon,ZOON,230670.0507,157.52
+W25,bsc,2023-03-09 20:22:47,swap_in,in,Wrapped BNB,WBNB,1.109076055,310.33
+W25,bsc,2023-03-09 20:22:47,swap_out,out,CryptoZoon,ZOON,454911.5995,309.64
+W25,bsc,2023-03-09 20:22:47,swap_out,out,CryptoZoon,ZOON,9283.910195,6.32
+W25,bsc,2023-03-09 20:24:35,swap_in,in,Wrapped BNB,WBNB,0.2091838764,58.53
+W25,bsc,2023-03-09 20:24:35,swap_out,out,CryptoZoon,ZOON,85657.35234,58.30
+W25,bsc,2023-03-09 20:24:35,swap_out,out,CryptoZoon,ZOON,1748.109232,1.19
+W25,bsc,2023-03-09 20:25:50,swap_in,in,Wrapped BNB,WBNB,0.2240760339,62.70
+W25,bsc,2023-03-09 20:25:50,swap_out,out,CryptoZoon,ZOON,91704.92004,62.42
+W25,bsc,2023-03-09 20:25:50,swap_out,out,CryptoZoon,ZOON,1871.52898,1.27
+W25,bsc,2023-03-09 20:54:34,swap_in,in,Wrapped BNB,WBNB,0.2031208064,56.84
+W25,bsc,2023-03-09 20:54:34,swap_out,out,CryptoZoon,ZOON,83125.35203,56.58
+W25,bsc,2023-03-09 20:54:34,swap_out,out,CryptoZoon,ZOON,1696.435756,1.15
+W25,bsc,2023-03-10 1:05:03,swap_in,in,Wrapped BNB,WBNB,0.2375073207,65.09
+W25,bsc,2023-03-10 1:05:03,swap_out,out,CryptoZoon,ZOON,97094.63,65.05
+W25,bsc,2023-03-10 1:05:03,swap_out,out,CryptoZoon,ZOON,1981.523061,1.33
+W25,bsc,2023-03-10 1:05:03,swap_in,in,Wrapped BNB,WBNB,0.2375073207,65.09
+W25,bsc,2023-03-10 1:05:03,swap_out,out,CryptoZoon,ZOON,97094.63,65.05
+W25,bsc,2023-03-10 1:05:03,swap_out,out,CryptoZoon,ZOON,1981.523061,1.33
+W25,bsc,2023-03-10 4:34:23,swap_out,out,Wrapped BNB,WBNB,0.3919259219,107.46
+W25,bsc,2023-03-10 4:34:23,swap_in,in,CryptoZoon,ZOON,164427.1063,110.39
+W25,bsc,2023-03-10 10:45:24,swap_in,in,Wrapped BNB,WBNB,0.02609098931,7.02
+W25,bsc,2023-03-10 10:45:24,swap_out,out,CryptoZoon,ZOON,10678.60721,6.61
+W25,bsc,2023-03-10 10:45:24,swap_out,out,CryptoZoon,ZOON,217.9307594,0.13
+W25,bsc,2023-03-10 17:55:05,swap_in,in,Wrapped BNB,WBNB,0.1317200072,36.34
+W25,bsc,2023-03-10 17:55:05,swap_out,out,CryptoZoon,ZOON,53900,32.92
+W25,bsc,2023-03-10 17:55:05,swap_out,out,CryptoZoon,ZOON,1100,0.67
+W25,bsc,2023-03-11 17:37:26,swap_out,out,Wrapped BNB,WBNB,0.00963264156,2.64
+W25,bsc,2023-03-11 17:37:26,swap_in,in,CryptoZoon,ZOON,4041.6905,2.56
+W25,bsc,2023-03-12 1:09:08,swap_out,out,Wrapped BNB,WBNB,0.1118319122,31.01
+W25,bsc,2023-03-12 1:09:08,swap_in,in,CryptoZoon,ZOON,46930,29.04
+W25,bsc,2023-03-12 3:11:49,swap_out,out,Wrapped BNB,WBNB,0.1161550316,32.42
+W25,bsc,2023-03-12 3:11:49,swap_in,in,CryptoZoon,ZOON,48758.351,30.19
+W25,bsc,2023-03-12 9:30:29,swap_out,out,Wrapped BNB,WBNB,0.09547654912,26.48
+W25,bsc,2023-03-12 9:30:29,swap_in,in,CryptoZoon,ZOON,40088.96603,24.57
+W25,bsc,2023-03-12 16:50:15,swap_out,out,Wrapped BNB,WBNB,0.004463032449,1.24
+W25,bsc,2023-03-12 16:50:15,swap_in,in,CryptoZoon,ZOON,1874.189814,1.13
+W25,bsc,2023-03-13 4:24:31,swap_out,out,Wrapped BNB,WBNB,0.2706738669,77.97
+W25,bsc,2023-03-13 4:24:31,swap_in,in,CryptoZoon,ZOON,113705.6425,70.18
+W25,bsc,2023-03-13 4:28:13,swap_out,out,Wrapped BNB,WBNB,1.199120409,345.40
+W25,bsc,2023-03-13 4:28:13,swap_in,in,CryptoZoon,ZOON,504675.587,311.47
+W25,bsc,2023-03-13 9:33:13,swap_out,out,Wrapped BNB,WBNB,1.241109216,377.07
+W25,bsc,2023-03-13 9:33:13,swap_in,in,CryptoZoon,ZOON,523977.9122,325.41
+W25,bsc,2023-03-13 14:48:20,swap_out,out,Wrapped BNB,WBNB,0.1831524352,55.26
+W25,bsc,2023-03-13 14:48:20,swap_in,in,CryptoZoon,ZOON,77465.28,46.15
+W25,bsc,2023-03-13 15:20:13,swap_out,out,Wrapped BNB,WBNB,0.2245529235,69.45
+W25,bsc,2023-03-13 15:20:13,swap_in,in,CryptoZoon,ZOON,95025.384,56.54
+W25,bsc,2023-03-14 12:04:40,swap_out,out,Wrapped BNB,WBNB,0.0432775158,13.31
+W25,bsc,2023-03-14 12:04:40,swap_in,in,CryptoZoon,ZOON,18320.28465,10.33
+W25,bsc,2023-03-14 12:48:20,swap_out,out,Wrapped BNB,WBNB,0.1055779412,32.46
+W25,bsc,2023-03-14 12:48:20,swap_in,in,CryptoZoon,ZOON,44701.8795,25.19
+W25,bsc,2023-03-14 12:48:26,swap_out,out,Wrapped BNB,WBNB,0.105549412,32.45
+W25,bsc,2023-03-14 12:48:26,swap_in,in,CryptoZoon,ZOON,44701.8795,25.19
+W25,bsc,2023-03-14 13:08:05,swap_out,out,Wrapped BNB,WBNB,0.2102017415,66.28
+W25,bsc,2023-03-14 13:08:05,swap_in,in,CryptoZoon,ZOON,89059.8115,49.97
+W25,bsc,2023-03-14 13:10:35,swap_out,out,Wrapped BNB,WBNB,0.3495367077,110.21
+W25,bsc,2023-03-14 13:10:35,swap_in,in,CryptoZoon,ZOON,148200.4361,83.15
+W25,bsc,2023-03-14 13:58:05,swap_out,out,Wrapped BNB,WBNB,0.1946825958,61.38
+W25,bsc,2023-03-14 13:58:05,swap_in,in,CryptoZoon,ZOON,82601.265,46.34
+W25,bsc,2023-03-15 7:28:26,swap_out,out,Wrapped BNB,WBNB,0.01459664941,4.55
+W25,bsc,2023-03-15 7:28:26,swap_in,in,CryptoZoon,ZOON,6194.829112,3.41
+W25,bsc,2023-03-15 14:08:52,swap_in,in,Wrapped BNB,WBNB,0.03532741643,10.92
+W25,bsc,2023-03-15 14:08:52,swap_out,out,CryptoZoon,ZOON,298.3543554,0.18
+W25,bsc,2023-03-15 14:08:52,swap_out,out,CryptoZoon,ZOON,14619.36341,8.67
+W25,bsc,2023-03-15 15:44:51,swap_out,out,Wrapped BNB,WBNB,0.06342192675,19.55
+W25,bsc,2023-03-15 15:44:51,swap_in,in,CryptoZoon,ZOON,26916.57197,16.19
+W25,bsc,2023-03-16 0:03:17,swap_out,out,Wrapped BNB,WBNB,0.2345985079,72.03
+W25,bsc,2023-03-16 0:03:17,swap_in,in,CryptoZoon,ZOON,99602.75,61.34
+W25,bsc,2023-03-16 0:54:57,swap_in,in,Wrapped BNB,WBNB,3.863539177,1186.26
+W25,bsc,2023-03-16 0:54:57,swap_out,out,CryptoZoon,ZOON,1592122.249,980.57
+W25,bsc,2023-03-16 0:54:57,swap_out,out,CryptoZoon,ZOON,32492.29079,20.01
+W25,bsc,2023-03-16 0:55:02,swap_in,in,Wrapped BNB,WBNB,3.851776301,1182.65
+W25,bsc,2023-03-16 0:55:02,swap_out,out,CryptoZoon,ZOON,32060.90185,19.75
+W25,bsc,2023-03-16 0:55:02,swap_out,out,CryptoZoon,ZOON,1570984.191,967.56
+W25,bsc,2023-03-16 1:00:32,swap_out,out,Wrapped BNB,WBNB,0.3032257482,92.66
+W25,bsc,2023-03-16 1:00:32,swap_in,in,CryptoZoon,ZOON,126323.3715,79.16
+W25,bsc,2023-03-16 1:43:36,swap_out,out,Wrapped BNB,WBNB,2.140642476,654.13
+W25,bsc,2023-03-16 1:43:36,swap_out,out,Wrapped BNB,WBNB,2.555428282,780.88
+W25,bsc,2023-03-16 1:43:36,swap_in,in,CryptoZoon,ZOON,900402.9719,564.23
+W25,bsc,2023-03-16 1:43:36,swap_in,in,CryptoZoon,ZOON,1068460.756,669.54
+W25,bsc,2023-03-16 7:13:29,swap_out,out,Wrapped BNB,WBNB,0.5769493923,182.25
+W25,bsc,2023-03-16 7:13:29,swap_in,in,CryptoZoon,ZOON,243521.7812,153.92
+W25,bsc,2023-03-16 12:47:15,swap_out,out,Wrapped BNB,WBNB,0.02387670277,7.57
+W25,bsc,2023-03-16 12:47:15,swap_in,in,CryptoZoon,ZOON,10085.75228,6.46
+W25,bsc,2023-03-16 14:26:15,swap_out,out,Wrapped BNB,WBNB,0.3435006255,106.58
+W25,bsc,2023-03-16 14:26:15,swap_in,in,CryptoZoon,ZOON,145166.1218,92.56
+W25,bsc,2023-03-16 14:27:16,swap_out,out,Wrapped BNB,WBNB,0.4208162339,130.57
+W25,bsc,2023-03-16 14:27:16,swap_in,in,CryptoZoon,ZOON,178014.2433,113.51
+W25,bsc,2023-03-16 14:32:28,swap_out,out,Wrapped BNB,WBNB,0.004161340849,1.29
+W25,bsc,2023-03-16 14:32:28,swap_in,in,CryptoZoon,ZOON,1761.294482,1.12
+W25,bsc,2023-03-16 14:45:32,swap_out,out,Wrapped BNB,WBNB,0.3997035455,124.02
+W25,bsc,2023-03-16 14:45:32,swap_in,in,CryptoZoon,ZOON,169262.5678,107.93
+W25,bsc,2023-03-16 16:20:53,swap_in,in,Wrapped BNB,WBNB,0.035199534,11.53
+W25,bsc,2023-03-16 16:20:53,swap_out,out,CryptoZoon,ZOON,296.7690618,0.19
+W25,bsc,2023-03-16 16:20:53,swap_out,out,CryptoZoon,ZOON,14541.68403,9.42
+W25,bsc,2023-03-16 18:33:46,swap_out,out,Wrapped BNB,WBNB,0.002856834551,0.94
+W25,bsc,2023-03-16 18:33:46,swap_in,in,CryptoZoon,ZOON,1210.3,0.79
+W25,bsc,2023-03-16 19:31:11,swap_out,out,Wrapped BNB,WBNB,0.4234912173,139.66
+W25,bsc,2023-03-16 19:31:11,swap_in,in,CryptoZoon,ZOON,179510.2235,117.13
+W25,bsc,2023-03-16 20:57:19,swap_out,out,Wrapped BNB,WBNB,0.1977432759,65.25
+W25,bsc,2023-03-16 20:57:19,swap_in,in,CryptoZoon,ZOON,83886.5295,54.58
+W25,bsc,2023-03-16 22:25:53,swap_out,out,Wrapped BNB,WBNB,0.003358244649,1.12
+W25,bsc,2023-03-16 22:25:53,swap_in,in,CryptoZoon,ZOON,1425,0.96
+W25,bsc,2023-03-17 2:41:39,swap_out,out,Wrapped BNB,WBNB,0.004398131592,1.46
+W25,bsc,2023-03-17 2:41:39,swap_in,in,CryptoZoon,ZOON,1866.272548,1.21
+W25,bsc,2023-03-17 6:25:25,swap_out,out,Wrapped BNB,WBNB,0.07098673229,23.50
+W25,bsc,2023-03-17 6:25:25,swap_in,in,CryptoZoon,ZOON,30124.92257,19.86
+W25,bsc,2023-03-17 6:41:28,swap_out,out,Wrapped BNB,WBNB,0.07347935491,24.32
+W25,bsc,2023-03-17 6:41:28,swap_in,in,CryptoZoon,ZOON,31188.5,20.56
+W25,bsc,2023-03-17 7:18:05,swap_in,in,Wrapped BNB,WBNB,0.008904742348,2.97
+W25,bsc,2023-03-17 7:18:05,swap_out,out,CryptoZoon,ZOON,3685.856345,2.41
+W25,bsc,2023-03-17 7:18:05,swap_out,out,CryptoZoon,ZOON,75.22155807,0.05
+W25,bsc,2023-03-17 9:38:31,swap_out,out,Wrapped BNB,WBNB,0.005953080021,1.98
+W25,bsc,2023-03-17 9:38:31,swap_in,in,CryptoZoon,ZOON,2527,1.60
+W25,bsc,2023-03-17 10:12:54,swap_out,out,Wrapped BNB,WBNB,0.01181387846,3.96
+W25,bsc,2023-03-17 10:12:54,swap_in,in,CryptoZoon,ZOON,5014.941888,3.19
+W25,bsc,2023-03-17 11:47:19,swap_in,in,Wrapped BNB,WBNB,0.00912,3.07
+W25,bsc,2023-03-17 11:47:19,swap_out,out,CryptoZoon,ZOON,77.04165003,0.05
+W25,bsc,2023-03-17 11:47:19,swap_out,out,CryptoZoon,ZOON,3775.040851,2.40
+W25,bsc,2023-03-17 12:28:18,swap_in,in,Wrapped BNB,WBNB,0.005019346873,1.68
+W25,bsc,2023-03-17 12:28:18,swap_out,out,CryptoZoon,ZOON,2077.620271,1.33
+W25,bsc,2023-03-17 12:28:18,swap_out,out,CryptoZoon,ZOON,42.4004137,0.03
+W25,bsc,2023-03-17 14:09:54,swap_in,in,Wrapped BNB,WBNB,0.029946,10.01
+W25,bsc,2023-03-17 14:09:54,swap_out,out,CryptoZoon,ZOON,252.9544417,0.17
+W25,bsc,2023-03-17 14:09:54,swap_out,out,CryptoZoon,ZOON,12394.76765,8.35
+W25,bsc,2023-03-17 14:27:39,swap_in,in,Wrapped BNB,WBNB,0.5167659255,172.75
+W25,bsc,2023-03-17 14:27:39,swap_out,out,CryptoZoon,ZOON,213635.17,143.99
+W25,bsc,2023-03-17 14:27:39,swap_out,out,CryptoZoon,ZOON,4359.901429,2.94
+W25,bsc,2023-03-17 14:35:12,swap_out,out,Wrapped BNB,WBNB,0.2470737961,82.60
+W25,bsc,2023-03-17 14:35:12,swap_in,in,CryptoZoon,ZOON,104766.285,70.61
+W25,bsc,2023-03-17 14:43:15,swap_out,out,Wrapped BNB,WBNB,0.3182359526,106.39
+W25,bsc,2023-03-17 14:43:15,swap_in,in,CryptoZoon,ZOON,135038.8045,91.02
+W25,bsc,2023-03-17 23:20:08,swap_out,out,Wrapped BNB,WBNB,0.3519184837,116.95
+W25,bsc,2023-03-17 23:20:08,swap_in,in,CryptoZoon,ZOON,149459.8045,96.78
+W25,bsc,2023-03-17 23:20:11,swap_out,out,Wrapped BNB,WBNB,0.08605193014,28.60
+W25,bsc,2023-03-17 23:20:11,swap_in,in,CryptoZoon,ZOON,36566.8015,23.68
+W25,bsc,2023-03-18 0:39:11,swap_out,out,Wrapped BNB,WBNB,0.3910720928,132.60
+W25,bsc,2023-03-18 0:39:11,swap_in,in,CryptoZoon,ZOON,166283.3393,109.17
+W25,bsc,2023-03-18 3:26:05,swap_out,out,Wrapped BNB,WBNB,0.03536738956,12.12
+W25,bsc,2023-03-18 3:26:05,swap_out,out,Wrapped BNB,WBNB,0.2280657291,78.18
+W25,bsc,2023-03-18 3:26:05,swap_in,in,CryptoZoon,ZOON,15046.404,10.15
+W25,bsc,2023-03-18 3:26:05,swap_in,in,CryptoZoon,ZOON,97059.1345,65.48
+W25,bsc,2023-03-18 7:21:53,swap_out,out,Wrapped BNB,WBNB,0.1393342364,47.99
+W25,bsc,2023-03-18 7:21:53,swap_in,in,CryptoZoon,ZOON,59325.17887,40.71
+W25,bsc,2023-03-18 22:24:44,swap_out,out,Wrapped BNB,WBNB,0.007932390905,2.67
+W25,bsc,2023-03-18 22:24:44,swap_in,in,CryptoZoon,ZOON,3378.061132,2.39
+W25,bsc,2023-03-18 23:50:12,swap_out,out,Wrapped BNB,WBNB,1.277473269,426.36
+W25,bsc,2023-03-18 23:50:12,swap_in,in,CryptoZoon,ZOON,544918.4401,384.44
+W25,bsc,2023-03-19 6:28:57,swap_out,out,Wrapped BNB,WBNB,0.5776742541,193.57
+W25,bsc,2023-03-19 6:28:57,swap_in,in,CryptoZoon,ZOON,247000.95,170.74
+W25,bsc,2023-03-19 7:41:27,swap_out,out,Wrapped BNB,WBNB,0.002066118599,0.69
+W25,bsc,2023-03-19 7:41:27,swap_in,in,CryptoZoon,ZOON,884.087206,0.60
+W25,bsc,2023-03-19 12:49:13,swap_out,out,Wrapped BNB,WBNB,0.03616425242,12.23
+W25,bsc,2023-03-19 12:49:13,swap_in,in,CryptoZoon,ZOON,15475.3575,10.46
+W25,bsc,2023-03-19 12:49:19,swap_out,out,Wrapped BNB,WBNB,0.2326672435,78.71
+W25,bsc,2023-03-19 12:49:19,swap_in,in,CryptoZoon,ZOON,99597.069,67.30
+W25,bsc,2023-03-19 18:33:24,swap_out,out,Wrapped BNB,WBNB,0.02511047424,8.49
+W25,bsc,2023-03-19 18:33:24,swap_in,in,CryptoZoon,ZOON,10752.52481,7.12
+W25,bsc,2023-03-20 2:06:18,swap_out,out,Wrapped BNB,WBNB,0.01780133036,5.97
+W25,bsc,2023-03-20 2:06:18,swap_in,in,CryptoZoon,ZOON,7623.106583,5.11
+W25,bsc,2023-03-20 2:06:18,swap_out,out,Wrapped BNB,WBNB,0.01780133036,6.00
+W25,bsc,2023-03-20 2:06:18,swap_in,in,CryptoZoon,ZOON,7623.106583,5.07
+W25,bsc,2023-03-20 2:37:17,swap_out,out,Wrapped BNB,WBNB,0.01636080016,5.52
+W25,bsc,2023-03-20 2:37:17,swap_in,in,CryptoZoon,ZOON,7006.532983,4.66
+W25,bsc,2023-03-20 11:15:36,swap_out,out,Wrapped BNB,WBNB,1.132685178,383.26
+W25,bsc,2023-03-20 11:15:36,swap_in,in,CryptoZoon,ZOON,485791.4861,320.90
+W25,bsc,2023-03-20 14:32:13,swap_out,out,Wrapped BNB,WBNB,0.2232909439,75.15
+W25,bsc,2023-03-20 14:32:13,swap_in,in,CryptoZoon,ZOON,95933.6885,64.07
+W25,bsc,2023-03-20 16:19:23,swap_out,out,Wrapped BNB,WBNB,0.004870275475,1.65
+W25,bsc,2023-03-20 16:19:23,swap_in,in,CryptoZoon,ZOON,2093.059,1.40
+W25,bsc,2023-03-20 22:06:11,swap_out,out,Wrapped BNB,WBNB,0.02285381371,7.67
+W25,bsc,2023-03-20 22:06:11,swap_in,in,CryptoZoon,ZOON,9822.05,6.28
+W25,bsc,2023-03-21 2:58:04,swap_in,in,Wrapped BNB,WBNB,0.05153237012,17.31
+W25,bsc,2023-03-21 2:58:04,swap_out,out,CryptoZoon,ZOON,21584.49,13.39
+W25,bsc,2023-03-21 2:58:04,swap_out,out,CryptoZoon,ZOON,440.4997959,0.27
+W25,bsc,2023-03-21 2:58:43,swap_in,in,Wrapped BNB,WBNB,0.09421510137,31.65
+W25,bsc,2023-03-21 2:58:43,swap_out,out,CryptoZoon,ZOON,39454.89,24.48
+W25,bsc,2023-03-21 2:58:43,swap_out,out,CryptoZoon,ZOON,805.2018367,0.50
+W25,bsc,2023-03-21 8:57:01,swap_out,out,Wrapped BNB,WBNB,0.003113961562,1.03
+W25,bsc,2023-03-21 8:57:01,swap_in,in,CryptoZoon,ZOON,1337.853243,0.79
+W25,bsc,2023-03-21 11:14:22,swap_in,in,Wrapped BNB,WBNB,0.1206994754,40.49
+W25,bsc,2023-03-21 11:14:22,swap_out,out,CryptoZoon,ZOON,50557.65419,30.16
+W25,bsc,2023-03-21 11:14:22,swap_out,out,CryptoZoon,ZOON,1031.788861,0.62
+W25,bsc,2023-03-21 14:59:06,swap_out,out,Wrapped BNB,WBNB,0.0574805628,19.37
+W25,bsc,2023-03-21 14:59:06,swap_in,in,CryptoZoon,ZOON,24689.67123,14.94
+W25,bsc,2023-03-21 20:55:08,swap_out,out,Wrapped BNB,WBNB,0.4329262487,146.63
+W25,bsc,2023-03-21 20:55:08,swap_in,in,CryptoZoon,ZOON,186072.6715,105.87
+W25,bsc,2023-03-22 5:24:12,swap_out,out,Wrapped BNB,WBNB,0.1176983765,39.80
+W25,bsc,2023-03-22 5:24:12,swap_out,out,Wrapped BNB,WBNB,0.04476491862,15.14
+W25,bsc,2023-03-22 5:24:12,swap_in,in,CryptoZoon,ZOON,50628.8345,26.57
+W25,bsc,2023-03-22 5:24:12,swap_in,in,CryptoZoon,ZOON,19251.9305,10.10
+W25,bsc,2023-03-22 11:46:05,swap_out,out,Wrapped BNB,WBNB,0.07706924033,25.20
+W25,bsc,2023-03-22 11:46:05,swap_in,in,CryptoZoon,ZOON,33160.24223,20.62
+W25,bsc,2023-03-22 15:41:21,swap_out,out,Wrapped BNB,WBNB,0.2195396553,72.20
+W25,bsc,2023-03-22 15:41:21,swap_in,in,CryptoZoon,ZOON,94496.5,56.97
+W25,bsc,2023-03-23 9:41:51,swap_out,out,Wrapped BNB,WBNB,0.02832560381,9.21
+W25,bsc,2023-03-23 9:41:51,swap_in,in,CryptoZoon,ZOON,12196.1,7.22
+W25,bsc,2023-03-23 10:55:45,swap_out,out,Wrapped BNB,WBNB,0.001118266783,0.36
+W25,bsc,2023-03-23 10:55:45,swap_in,in,CryptoZoon,ZOON,481.5082681,0.29
+W25,bsc,2023-03-23 12:12:42,swap_out,out,Wrapped BNB,WBNB,0.001282619997,0.42
+W25,bsc,2023-03-23 12:12:42,swap_in,in,CryptoZoon,ZOON,552.2779149,0.33
+W25,bsc,2023-03-23 12:21:36,swap_out,out,Wrapped BNB,WBNB,0.001239360811,0.40
+W25,bsc,2023-03-23 12:21:36,swap_in,in,CryptoZoon,ZOON,533.6528624,0.32
+W25,bsc,2023-03-23 12:55:48,swap_out,out,Wrapped BNB,WBNB,0.003896081114,1.27
+W25,bsc,2023-03-23 12:55:48,swap_in,in,CryptoZoon,ZOON,1677.613648,1.00
+W25,bsc,2023-03-23 17:57:58,swap_out,out,Wrapped BNB,WBNB,0.00373543608,1.23
+W25,bsc,2023-03-23 17:57:58,swap_in,in,CryptoZoon,ZOON,1608.457343,0.95
+W25,bsc,2023-03-23 23:26:19,swap_in,in,Wrapped BNB,WBNB,0.007002111487,2.30
+W25,bsc,2023-03-23 23:26:19,swap_out,out,CryptoZoon,ZOON,60,0.04
+W25,bsc,2023-03-23 23:26:19,swap_out,out,CryptoZoon,ZOON,2940,1.78
+W25,bsc,2023-03-24 1:28:08,swap_out,out,Wrapped BNB,WBNB,0.00135336858,0.45
+W25,bsc,2023-03-24 1:28:08,swap_in,in,CryptoZoon,ZOON,582.7460679,0.35
+W25,bsc,2023-03-24 4:03:29,swap_out,out,Wrapped BNB,WBNB,4.785631549,1568.93
+W25,bsc,2023-03-24 4:03:29,swap_in,in,CryptoZoon,ZOON,2073437.133,1243.26
+W25,bsc,2023-03-24 4:04:11,swap_out,out,Wrapped BNB,WBNB,0.6949762498,227.84
+W25,bsc,2023-03-24 4:04:11,swap_in,in,CryptoZoon,ZOON,303254.7174,181.84
+W25,bsc,2023-03-24 8:35:26,swap_out,out,Wrapped BNB,WBNB,0.03335122327,10.86
+W25,bsc,2023-03-24 8:35:26,swap_in,in,CryptoZoon,ZOON,14566.6887,9.17
+W25,bsc,2023-03-24 12:04:02,swap_in,in,Wrapped BNB,WBNB,0.01685125,5.45
+W25,bsc,2023-03-24 12:04:02,swap_out,out,CryptoZoon,ZOON,7176.99183,4.41
+W25,bsc,2023-03-24 12:04:02,swap_out,out,CryptoZoon,ZOON,146.469221,0.09
+W25,bsc,2023-03-24 14:07:57,swap_out,out,Wrapped BNB,WBNB,0.03965089798,12.83
+W25,bsc,2023-03-24 14:07:57,swap_in,in,CryptoZoon,ZOON,17319.0605,10.56
+W25,bsc,2023-03-24 23:37:43,swap_out,out,Wrapped BNB,WBNB,0.1913395086,62.03
+W25,bsc,2023-03-24 23:37:43,swap_in,in,CryptoZoon,ZOON,83600,44.02
+W25,bsc,2023-03-25 5:08:55,swap_out,out,Wrapped BNB,WBNB,0.135742737,44.30
+W25,bsc,2023-03-25 5:08:55,swap_in,in,CryptoZoon,ZOON,59333.91046,30.06
+W25,bsc,2023-03-25 15:58:01,swap_in,in,Wrapped BNB,WBNB,0.07911921766,25.80
+W25,bsc,2023-03-25 15:58:01,swap_out,out,CryptoZoon,ZOON,33725.04056,19.43
+W25,bsc,2023-03-25 15:58:01,swap_out,out,CryptoZoon,ZOON,688.2661339,0.40
+W25,bsc,2023-03-25 16:06:04,swap_in,in,Wrapped BNB,WBNB,0.02457196671,8.04
+W25,bsc,2023-03-25 16:06:04,swap_out,out,CryptoZoon,ZOON,10472.53832,6.07
+W25,bsc,2023-03-25 16:06:04,swap_out,out,CryptoZoon,ZOON,213.7252719,0.12
+W25,bsc,2023-03-25 19:20:56,swap_out,out,Wrapped BNB,WBNB,0.007642401223,2.46
+W25,bsc,2023-03-25 19:20:56,swap_in,in,CryptoZoon,ZOON,3340.26129,1.96
+W25,bsc,2023-03-26 8:03:21,swap_in,in,Wrapped BNB,WBNB,0.01946176293,6.31
+W25,bsc,2023-03-26 8:03:21,swap_out,out,CryptoZoon,ZOON,8294.267549,5.36
+W25,bsc,2023-03-26 8:03:21,swap_out,out,CryptoZoon,ZOON,169.2707663,0.11
+W25,bsc,2023-03-26 9:44:44,swap_in,in,Wrapped BNB,WBNB,0.04323379551,14.10
+W25,bsc,2023-03-26 9:44:44,swap_out,out,CryptoZoon,ZOON,18424,12.18
+W25,bsc,2023-03-26 9:44:44,swap_out,out,CryptoZoon,ZOON,376,0.25
+W25,bsc,2023-03-26 10:32:44,swap_out,out,Wrapped BNB,WBNB,0.01741688286,5.69
+W25,bsc,2023-03-26 10:32:44,swap_in,in,CryptoZoon,ZOON,7611.4,5.07
+W25,bsc,2023-03-26 10:57:14,swap_out,out,Wrapped BNB,WBNB,0.01590205911,5.19
+W25,bsc,2023-03-26 10:57:14,swap_in,in,CryptoZoon,ZOON,6949.703808,4.63
+W25,bsc,2023-03-26 12:59:28,swap_in,in,Wrapped BNB,WBNB,0.005862370718,1.92
+W25,bsc,2023-03-26 12:59:28,swap_out,out,CryptoZoon,ZOON,2498.2954,1.65
+W25,bsc,2023-03-26 12:59:28,swap_out,out,CryptoZoon,ZOON,50.98562041,0.03
+W25,bsc,2023-03-26 13:00:13,swap_out,out,Wrapped BNB,WBNB,0.00543061496,1.78
+W25,bsc,2023-03-26 13:00:13,swap_in,in,CryptoZoon,ZOON,2373.38063,1.58
+W25,bsc,2023-03-26 13:01:22,swap_in,in,Wrapped BNB,WBNB,0.025,8.17
+W25,bsc,2023-03-26 13:01:22,swap_out,out,CryptoZoon,ZOON,10653.67099,7.08
+W25,bsc,2023-03-26 13:01:22,swap_out,out,CryptoZoon,ZOON,217.4218569,0.14
+W25,bsc,2023-03-27 6:56:21,swap_in,in,Wrapped BNB,WBNB,0.009199115491,3.01
+W25,bsc,2023-03-27 6:56:21,swap_out,out,CryptoZoon,ZOON,3920,2.52
+W25,bsc,2023-03-27 6:56:21,swap_out,out,CryptoZoon,ZOON,80,0.05
+W25,bsc,2023-03-27 8:35:52,swap_out,out,Wrapped BNB,WBNB,0.01004514002,3.28
+W25,bsc,2023-03-27 8:35:52,swap_in,in,CryptoZoon,ZOON,4389.798473,2.83
+W25,bsc,2023-03-27 13:01:00,swap_out,out,Wrapped BNB,WBNB,0.02315877351,7.60
+W25,bsc,2023-03-27 13:01:00,swap_in,in,CryptoZoon,ZOON,10120.98744,6.55
+W25,bsc,2023-03-28 2:59:56,swap_out,out,Wrapped BNB,WBNB,0.006235483268,1.94
+W25,bsc,2023-03-28 2:59:56,swap_in,in,CryptoZoon,ZOON,2725.172893,1.78
+W25,bsc,2023-03-28 5:11:33,swap_out,out,Wrapped BNB,WBNB,0.02848013707,8.76
+W25,bsc,2023-03-28 5:11:33,swap_in,in,CryptoZoon,ZOON,12447.59953,8.24
